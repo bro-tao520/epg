@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    # 每天北京时间早上 6:00 运行 (UTC 22:00)
+    # 每天北京时间早上 4:15 运行 (UTC 20:15)
     - cron: '15 20 * * *'
   workflow_dispatch: # 允许手动点击按钮触发
 
