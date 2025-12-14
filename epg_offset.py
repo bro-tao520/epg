@@ -13,14 +13,14 @@ SOURCES = [
         "name": "大陆频道",  # 方便看日志的名字
         "m3u": "http://m3u4u.com/m3u/4z2xnj6xk6t2mr4gnv15",
         "epg": "https://epg.pw/xmltv/epg_CN.xml",
-        "offset": -8
+        "offset": -13
     },
     # 可以在下面复制添加更多源...
     {
         "name": "香港频道",
         "m3u": "http://m3u4u.com/m3u/dqr6ywqveqsm1p54yx1w",
         "epg": "https://epg.pw/xmltv/epg_HK.xml",
-        "offset": -8
+        "offset": -13
     },
 ]
 
