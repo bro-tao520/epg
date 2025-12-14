@@ -13,7 +13,7 @@ M3U_URL = "http://m3u4u.com/m3u/4z2xnj6xk6t2mr4gnv15"
 EPG_URL = "https://epg.pw/xmltv/epg_CN.xml"
 
 # 3. 你想要偏移的小时数 (例如 -5)
-OFFSET_HOURS = -7
+OFFSET_HOURS = -6
 
 # 4. 输出文件名
 OUTPUT_FILENAME = "slim_fixed_epg.xml"
