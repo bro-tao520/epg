@@ -11,16 +11,16 @@ from datetime import datetime, timedelta
 SOURCES = [
     {
         "name": "大陆频道",  # 方便看日志的名字
-        "m3u": "http://m3u4u.com/m3u/4z2xnj6xk6t2mr4gnv15",
+        "m3u": "https://www.dropbox.com/scl/fi/5vio2bkhbnbsaa1naousm/TV-List_CN.m3u?rlkey=q8ynpyirdhgr1xuwnyjy4u96a&st=cs09g57z&raw=1",
         "epg": "https://epg.pw/xmltv/epg_CN.xml",
-        "offset": -13
+        "offset": -8
     },
     # 可以在下面复制添加更多源...
     {
         "name": "香港频道",
-        "m3u": "http://m3u4u.com/m3u/dqr6ywqveqsm1p54yx1w",
+        "m3u": "https://www.dropbox.com/scl/fi/b1w8njm0v68muuxaq0bs4/TV-List_HK.m3u?rlkey=xjkoez8vq0xolm5qqcoqmalmz&st=tfaclvs7&raw=1",
         "epg": "https://epg.pw/xmltv/epg_HK.xml",
-        "offset": -13
+        "offset": -8
     },
 ]
 
