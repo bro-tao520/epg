@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20251214080003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_CN.xml"><channel id="378823">
+    <display-name lang="CN">CCTV5</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="378824">
+    <display-name lang="CN">CCTV5+</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="378824" start="20251213200600 +0000" stop="20251213213600 +0000">
+    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251213213600 +0000" stop="20251213230000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季英超联赛第8轮 曼彻斯特城—埃弗顿</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251213230000 +0000" stop="20251214010000 +0000">
+    <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 2</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214010000 +0000" stop="20251214023000 +0000">
+    <title lang="zh">实况录像-2025年世界田联钻石联赛  巴黎站</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214023000 +0000" stop="20251214030000 +0000">
+    <title lang="zh">实况录像-2025年射箭世界杯总决赛 2</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214030000 +0000" stop="20251214040000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 荷兰站 2</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214040000 +0000" stop="20251214070000 +0000">
+    <title lang="zh">2025/2026赛季北美冰球职业联赛-常规赛17（佛罗里达美洲豹—达拉斯星）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214070000 +0000" stop="20251214080200 +0000">
+    <title lang="zh">2026冬奥会冰壶资格赛-混双循环赛（匈牙利队-中国队）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214080200 +0000" stop="20251214083000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214083000 +0000" stop="20251214103500 +0000">
+    <title lang="zh">2025年WTT总决赛-男单半决赛</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214103500 +0000" stop="20251214120000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季法甲联赛第15轮 巴黎圣日耳曼—雷恩</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214120000 +0000" stop="20251214133500 +0000">
+    <title lang="zh">残特奥会-坐式排球 男子决赛</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214133500 +0000" stop="20251214143000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子3米板决赛（4K）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214143000 +0000" stop="20251214163000 +0000">
+    <title lang="zh">2025/2026赛季中国男子篮球职业联赛-第1轮（广东东阳光—南京天之蓝）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214163000 +0000" stop="20251214173500 +0000">
+    <title lang="zh">残特奥会-轮椅篮球 女子决赛（录播）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214173500 +0000" stop="20251214180000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214180000 +0000" stop="20251214181000 +0000">
+    <title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214181000 +0000" stop="20251214201700 +0000">
+    <title lang="zh">2025/2026西班牙足球甲级联赛-第16轮（塞尔塔—毕尔巴鄂竞技）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214201700 +0000" stop="20251214213900 +0000">
+    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214213900 +0000" stop="20251214230000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季法甲联赛第9轮 布雷斯特—巴黎圣日耳曼</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214230000 +0000" stop="20251215010000 +0000">
+    <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215010000 +0000" stop="20251215023000 +0000">
+    <title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215023000 +0000" stop="20251215040000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 羽毛球男子团体决赛（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215040000 +0000" stop="20251215053000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 北京控股—山东高速</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215053000 +0000" stop="20251215070000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季斯诺克英国锦标赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215070000 +0000" stop="20251215083000 +0000">
+    <title lang="zh">2025中国之队熊猫杯国际足球锦标赛-（中国U22男足—韩国U22男足）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215083000 +0000" stop="20251215090000 +0000">
+    <title lang="zh">实况录像-2025年世界跆拳道锦标赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215090000 +0000" stop="20251215100000 +0000">
+    <title lang="zh">残特奥会-坐式排球女子决赛（录播）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215100000 +0000" stop="20251215113000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215113000 +0000" stop="20251215143000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 广东东阳光—南京天之蓝</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215143000 +0000" stop="20251215150000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 中国队比赛</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215150000 +0000" stop="20251215162500 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 排球女子决赛（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215162500 +0000" stop="20251215163500 +0000">
+    <title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215163500 +0000" stop="20251215173500 +0000">
+    <title lang="zh">实况录像-2025年世乒联总决赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215173500 +0000" stop="20251215183500 +0000">
+    <title lang="zh">2025/2026赛季国际雪联U型场地世界杯 云顶站-自由式滑雪决赛</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215183500 +0000" stop="20251215190000 +0000">
+    <title lang="zh">2025年ATP1000男子网球大师赛-上海站1（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251213201000 +0000" stop="20251213213800 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操女子团体决赛（4K）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251213213800 +0000" stop="20251213230000 +0000">
+    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛  半决赛 1</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251213230000 +0000" stop="20251214003000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季英超联赛第12轮 利物浦—诺丁汉森林</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214003000 +0000" stop="20251214010000 +0000">
+    <title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214010000 +0000" stop="20251214013000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 射击比赛2（4K）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214013000 +0000" stop="20251214020000 +0000">
+    <title lang="zh">健身动起来</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214020000 +0000" stop="20251214040500 +0000">
+    <title lang="zh">体坛晨报</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214040500 +0000" stop="20251214050000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 荷兰站 2</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214050000 +0000" stop="20251214073000 +0000">
+    <title lang="zh">2025/2026赛季美国职业篮球联赛-杯赛半决赛（马刺-雷霆）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214073000 +0000" stop="20251214083500 +0000">
+    <title lang="zh">体坛快讯-2025.12.14</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214083500 +0000" stop="20251214085500 +0000">
+    <title lang="zh">艺术里的奥林匹克2025-74(4K)</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214085500 +0000" stop="20251214103000 +0000">
+    <title lang="zh">2025年世界职业拳王争霸赛-2025.12.14</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214103000 +0000" stop="20251214123000 +0000">
+    <title lang="zh">残特奥会-盲人门球女子、男子决赛</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214123000 +0000" stop="20251214130000 +0000">
+    <title lang="zh">实况录像-2025年世界跆拳道锦标赛 2</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214130000 +0000" stop="20251214140000 +0000">
+    <title lang="zh">体育新闻</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214140000 +0000" stop="20251214143000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214143000 +0000" stop="20251214170000 +0000">
+    <title lang="zh">2025年WTT总决赛-单打决赛</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214170000 +0000" stop="20251214190000 +0000">
+    <title lang="zh">2025/2026英格兰足球超级联赛-第16轮（水晶宫—曼城）</title>
+    <desc />
+    <date>20251214</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214190000 +0000" stop="20251214212000 +0000">
+    <title lang="zh">2025/2026法国足球甲级联赛-第16轮（欧塞尔—里尔）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214212000 +0000" stop="20251214213600 +0000">
+    <title lang="zh">实况录像-2025/2026赛季斯诺克西安大奖赛 第一轮 特鲁姆普的147</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214213600 +0000" stop="20251214230000 +0000">
+    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251214230000 +0000" stop="20251215003000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季英超联赛第6轮 阿斯顿维拉—富勒姆</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215003000 +0000" stop="20251215010000 +0000">
+    <title lang="zh">实况录像-2025年射箭世界杯总决赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215010000 +0000" stop="20251215013000 +0000">
+    <title lang="zh">实况录像-2025年三人篮球世界杯 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215013000 +0000" stop="20251215020000 +0000">
+    <title lang="zh">健身动起来</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215020000 +0000" stop="20251215040500 +0000">
+    <title lang="zh">体坛晨报</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215040500 +0000" stop="20251215053100 +0000">
+    <title lang="zh">2025中国之队熊猫杯国际足球锦标赛-（中国U22男足—韩国U22男足）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215053100 +0000" stop="20251215070000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 北京控股—山东高速</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215070000 +0000" stop="20251215080500 +0000">
+    <title lang="zh">体坛快讯</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215080500 +0000" stop="20251215082700 +0000">
+    <title lang="zh">艺术里的奥林匹克(4K)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215082700 +0000" stop="20251215090000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 男子钢架雪车</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215090000 +0000" stop="20251215103000 +0000">
+    <title lang="zh">实况录像-2026冬奥会冰壶资格赛 混双循环赛 法国队-中国队（录播）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215103000 +0000" stop="20251215120000 +0000">
+    <title lang="zh">残特奥会-轮椅篮球 男子决赛</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215120000 +0000" stop="20251215130000 +0000">
+    <title lang="zh">运动一起赢</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215130000 +0000" stop="20251215133000 +0000">
+    <title lang="zh">体育新闻-2025.12.15</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215133000 +0000" stop="20251215143000 +0000">
+    <title lang="zh">天下足球-2025-47</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215143000 +0000" stop="20251215163000 +0000">
+    <title lang="zh">2025/2026赛季中国男子篮球职业联赛-第2轮（北京北汽-新疆伊力特）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215163000 +0000" stop="20251215173500 +0000">
+    <title lang="zh">体育世界</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215173500 +0000" stop="20251215183500 +0000">
+    <title lang="zh">实况录像-2025年世乒联总决赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215183500 +0000" stop="20251215190000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  </tv>
