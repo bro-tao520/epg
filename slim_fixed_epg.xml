@@ -7,438 +7,6 @@
     <display-name lang="CN">CCTV5+</display-name>
     <icon src="" />
   </channel>
-  <programme channel="378824" start="20251213170600 +0000" stop="20251213183600 +0000">
-    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251213183600 +0000" stop="20251213200000 +0000">
-    <title lang="zh">国际足球赛场-25-26赛季英超联赛第8轮 曼彻斯特城—埃弗顿</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251213200000 +0000" stop="20251213220000 +0000">
-    <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 2</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251213220000 +0000" stop="20251213233000 +0000">
-    <title lang="zh">实况录像-2025年世界田联钻石联赛  巴黎站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251213233000 +0000" stop="20251214000000 +0000">
-    <title lang="zh">实况录像-2025年射箭世界杯总决赛 2</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214000000 +0000" stop="20251214010000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 荷兰站 2</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214010000 +0000" stop="20251214040000 +0000">
-    <title lang="zh">2025/2026赛季北美冰球职业联赛-常规赛17（佛罗里达美洲豹—达拉斯星）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214040000 +0000" stop="20251214050200 +0000">
-    <title lang="zh">2026冬奥会冰壶资格赛-混双循环赛（匈牙利队-中国队）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214050200 +0000" stop="20251214053000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214053000 +0000" stop="20251214073500 +0000">
-    <title lang="zh">2025年WTT总决赛-男单半决赛</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214073500 +0000" stop="20251214090000 +0000">
-    <title lang="zh">国际足球赛场-25-26赛季法甲联赛第15轮 巴黎圣日耳曼—雷恩</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214090000 +0000" stop="20251214103500 +0000">
-    <title lang="zh">残特奥会-坐式排球 男子决赛</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214103500 +0000" stop="20251214113000 +0000">
-    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子3米板决赛（4K）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214113000 +0000" stop="20251214133000 +0000">
-    <title lang="zh">2025/2026赛季中国男子篮球职业联赛-第1轮（广东东阳光—南京天之蓝）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214133000 +0000" stop="20251214143500 +0000">
-    <title lang="zh">残特奥会-轮椅篮球 女子决赛（录播）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214143500 +0000" stop="20251214150000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214150000 +0000" stop="20251214151000 +0000">
-    <title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214151000 +0000" stop="20251214171700 +0000">
-    <title lang="zh">2025/2026西班牙足球甲级联赛-第16轮（塞尔塔—毕尔巴鄂竞技）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214171700 +0000" stop="20251214183900 +0000">
-    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214183900 +0000" stop="20251214200000 +0000">
-    <title lang="zh">国际足球赛场-25-26赛季法甲联赛第9轮 布雷斯特—巴黎圣日耳曼</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214200000 +0000" stop="20251214220000 +0000">
-    <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214220000 +0000" stop="20251214233000 +0000">
-    <title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251214233000 +0000" stop="20251215010000 +0000">
-    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 羽毛球男子团体决赛（4K）</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215010000 +0000" stop="20251215023000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 北京控股—山东高速</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215023000 +0000" stop="20251215040000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季斯诺克英国锦标赛 1</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215040000 +0000" stop="20251215053000 +0000">
-    <title lang="zh">2025中国之队熊猫杯国际足球锦标赛-（中国U22男足—韩国U22男足）</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215053000 +0000" stop="20251215060000 +0000">
-    <title lang="zh">实况录像-2025年世界跆拳道锦标赛 1</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215060000 +0000" stop="20251215070000 +0000">
-    <title lang="zh">残特奥会-坐式排球女子决赛（录播）</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215070000 +0000" stop="20251215083000 +0000">
-    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215083000 +0000" stop="20251215113000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 广东东阳光—南京天之蓝</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215113000 +0000" stop="20251215120000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 中国队比赛</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215120000 +0000" stop="20251215132500 +0000">
-    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 排球女子决赛（4K）</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215132500 +0000" stop="20251215133500 +0000">
-    <title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215133500 +0000" stop="20251215143500 +0000">
-    <title lang="zh">实况录像-2025年世乒联总决赛 1</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215143500 +0000" stop="20251215153500 +0000">
-    <title lang="zh">2025/2026赛季国际雪联U型场地世界杯 云顶站-自由式滑雪决赛</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378824" start="20251215153500 +0000" stop="20251215160000 +0000">
-    <title lang="zh">2025年ATP1000男子网球大师赛-上海站1（4K）</title>
-    <desc />
-    <date>20251215</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251213171000 +0000" stop="20251213183800 +0000">
-    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操女子团体决赛（4K）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251213183800 +0000" stop="20251213200000 +0000">
-    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛  半决赛 1</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251213200000 +0000" stop="20251213213000 +0000">
-    <title lang="zh">国际足球赛场-25-26赛季英超联赛第12轮 利物浦—诺丁汉森林</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251213213000 +0000" stop="20251213220000 +0000">
-    <title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251213220000 +0000" stop="20251213223000 +0000">
-    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 射击比赛2（4K）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251213223000 +0000" stop="20251213230000 +0000">
-    <title lang="zh">健身动起来</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251213230000 +0000" stop="20251214010500 +0000">
-    <title lang="zh">体坛晨报</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214010500 +0000" stop="20251214020000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 荷兰站 2</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214020000 +0000" stop="20251214043000 +0000">
-    <title lang="zh">2025/2026赛季美国职业篮球联赛-杯赛半决赛（马刺-雷霆）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214043000 +0000" stop="20251214053500 +0000">
-    <title lang="zh">体坛快讯-2025.12.14</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214053500 +0000" stop="20251214055500 +0000">
-    <title lang="zh">艺术里的奥林匹克2025-74(4K)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214055500 +0000" stop="20251214073000 +0000">
-    <title lang="zh">2025年世界职业拳王争霸赛-2025.12.14</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214073000 +0000" stop="20251214093000 +0000">
-    <title lang="zh">残特奥会-盲人门球女子、男子决赛</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214093000 +0000" stop="20251214100000 +0000">
-    <title lang="zh">实况录像-2025年世界跆拳道锦标赛 2</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214100000 +0000" stop="20251214110000 +0000">
-    <title lang="zh">体育新闻</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214110000 +0000" stop="20251214113000 +0000">
-    <title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214113000 +0000" stop="20251214140000 +0000">
-    <title lang="zh">2025年WTT总决赛-单打决赛</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="378823" start="20251214140000 +0000" stop="20251214160000 +0000">
-    <title lang="zh">2025/2026英格兰足球超级联赛-第16轮（水晶宫—曼城）</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme channel="378823" start="20251214160000 +0000" stop="20251214182000 +0000">
     <title lang="zh">2025/2026法国足球甲级联赛-第16轮（欧塞尔—里尔）</title>
     <desc />
@@ -607,10 +175,466 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="378823" start="20251215153500 +0000" stop="20251215160000 +0000">
+  <programme channel="378823" start="20251215153500 +0000" stop="20251215170500 +0000">
     <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）</title>
     <desc />
     <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215170500 +0000" stop="20251215183600 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 羽毛球男子团体决赛（4K）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215183600 +0000" stop="20251215200000 +0000">
+    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215200000 +0000" stop="20251215213000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季英超联赛第7轮 阿森纳—西汉姆联</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215213000 +0000" stop="20251215220000 +0000">
+    <title lang="zh">实况录像-2025年射箭世界杯总决赛 2</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215220000 +0000" stop="20251215223000 +0000">
+    <title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215223000 +0000" stop="20251215230000 +0000">
+    <title lang="zh">健身动起来</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251215230000 +0000" stop="20251216010500 +0000">
+    <title lang="zh">体坛晨报</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216010500 +0000" stop="20251216023000 +0000">
+    <title lang="zh">2025/2026西班牙足球甲级联赛-第16轮（巴塞罗那-奥萨苏纳）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216023000 +0000" stop="20251216033000 +0000">
+    <title lang="zh">2025/2026赛季美国职业篮球联赛-常规赛（火箭-掘金）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216033000 +0000" stop="20251216034500 +0000">
+    <title lang="zh">体坛快讯</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216034500 +0000" stop="20251216050500 +0000">
+    <title lang="zh">2025/2026赛季美国职业篮球联赛-常规赛（火箭-掘金）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216050500 +0000" stop="20251216052700 +0000">
+    <title lang="zh">艺术里的奥林匹克(4K)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216052700 +0000" stop="20251216063000 +0000">
+    <title lang="zh">2025/2026赛季国际雪联U型场地世界杯 云顶站-自由式滑雪决赛</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216063000 +0000" stop="20251216080000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季斯诺克英国锦标赛 2</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216080000 +0000" stop="20251216100000 +0000">
+    <title lang="zh">运动一起赢</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216100000 +0000" stop="20251216110000 +0000">
+    <title lang="zh">体育新闻</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216110000 +0000" stop="20251216113000 +0000">
+    <title lang="zh">2025/2026法国足球甲级联赛-第16轮集锦</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216113000 +0000" stop="20251216133000 +0000">
+    <title lang="zh">2025/2026赛季中国男子篮球职业联赛-第2轮(浙江稠州金租-广东东阳光)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216133000 +0000" stop="20251216143500 +0000">
+    <title lang="zh">体育世界</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216143500 +0000" stop="20251216153500 +0000">
+    <title lang="zh">实况录像-2025年世乒联总决赛 2</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378823" start="20251216153500 +0000" stop="20251216160000 +0000">
+    <title lang="zh">2025/2026赛季速度滑冰世界杯-挪威站 1</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214171700 +0000" stop="20251214183900 +0000">
+    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214183900 +0000" stop="20251214200000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季法甲联赛第9轮 布雷斯特—巴黎圣日耳曼</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214200000 +0000" stop="20251214220000 +0000">
+    <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214220000 +0000" stop="20251214233000 +0000">
+    <title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251214233000 +0000" stop="20251215010000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 羽毛球男子团体决赛（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215010000 +0000" stop="20251215023000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 北京控股—山东高速</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215023000 +0000" stop="20251215040000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季斯诺克英国锦标赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215040000 +0000" stop="20251215053000 +0000">
+    <title lang="zh">2025中国之队熊猫杯国际足球锦标赛-（中国U22男足—韩国U22男足）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215053000 +0000" stop="20251215060000 +0000">
+    <title lang="zh">实况录像-2025年世界跆拳道锦标赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215060000 +0000" stop="20251215070000 +0000">
+    <title lang="zh">残特奥会-坐式排球女子决赛（录播）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215070000 +0000" stop="20251215083000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215083000 +0000" stop="20251215113000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 广东东阳光—南京天之蓝</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215113000 +0000" stop="20251215120000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 中国队比赛</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215120000 +0000" stop="20251215132500 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 排球女子决赛（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215132500 +0000" stop="20251215133500 +0000">
+    <title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215133500 +0000" stop="20251215143500 +0000">
+    <title lang="zh">实况录像-2025年世乒联总决赛 1</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215143500 +0000" stop="20251215153500 +0000">
+    <title lang="zh">2025/2026赛季国际雪联U型场地世界杯 云顶站-自由式滑雪决赛</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215153500 +0000" stop="20251215170600 +0000">
+    <title lang="zh">2025年ATP1000男子网球大师赛-上海站1（4K）</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215170600 +0000" stop="20251215183600 +0000">
+    <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215183600 +0000" stop="20251215200000 +0000">
+    <title lang="zh">国际足球赛场-25-26赛季英超联赛第2轮 布伦特福德—阿斯顿维拉</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215200000 +0000" stop="20251215220000 +0000">
+    <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215220000 +0000" stop="20251215233000 +0000">
+    <title lang="zh">实况录像-2025年世界田联钻石联赛 尤金站</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251215233000 +0000" stop="20251216010000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 羽毛球女子团体决赛（4K）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216010000 +0000" stop="20251216023000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第1轮 广东东阳光—南京天之蓝</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216023000 +0000" stop="20251216030000 +0000">
+    <title lang="zh">实况录像-2025年世界跆拳道锦标赛 2</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216030000 +0000" stop="20251216050000 +0000">
+    <title lang="zh">2026冬奥会冰壶资格赛-混双循环赛（丹麦队-中国队）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216050000 +0000" stop="20251216060000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 波兰站 2</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216060000 +0000" stop="20251216070000 +0000">
+    <title lang="zh">实况录像-2025年世界举重锦标赛 女子48公斤级决赛</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216070000 +0000" stop="20251216083000 +0000">
+    <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操女子团体决赛（4K）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216083000 +0000" stop="20251216100000 +0000">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第2轮 北京北汽—新疆伊力特</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216100000 +0000" stop="20251216113000 +0000">
+    <title lang="zh">2025/2026西班牙足球甲级联赛-第16轮（巴塞罗那-奥萨苏纳）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216113000 +0000" stop="20251216123000 +0000">
+    <title lang="zh">实况录像-2025年世乒联总决赛 2</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216123000 +0000" stop="20251216133000 +0000">
+    <title lang="zh">2025/2026赛季速度滑冰世界杯-挪威站 1</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216133000 +0000" stop="20251216143000 +0000">
+    <title lang="zh">2025年世界女子手球锦标赛-决赛</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216143000 +0000" stop="20251216153000 +0000">
+    <title lang="zh">2025/2026赛季国际雪联U型场地世界杯 云顶站-单板滑雪决赛（4K）</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="378824" start="20251216153000 +0000" stop="20251216160000 +0000">
+    <title lang="zh">2025年ATP1000男子网球大师赛-上海站2（4K）</title>
+    <desc />
+    <date>20251216</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -623,364 +647,6 @@
     <display-name lang="HK">鳳凰衛視資訊台</display-name>
     <icon src="" />
   </channel>
-  <programme channel="368338" start="20251213160000 +0000" stop="20251213162700 +0000">
-    <title lang="zh">鳳凰洲際快車 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213162700 +0000" stop="20251213163000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213163000 +0000" stop="20251213170000 +0000">
-    <title lang="zh">香港新視點 (484)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213170000 +0000" stop="20251213180000 +0000">
-    <title lang="zh">格力 一虎一席談 (1034)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213180000 +0000" stop="20251213183000 +0000">
-    <title lang="zh">紀錄大時代 (1351)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213183000 +0000" stop="20251213190000 +0000">
-    <title lang="zh">百姓食堂 (II) (4)(R)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213190000 +0000" stop="20251213193000 +0000">
-    <title lang="zh">中國茅台 
-近觀中國 (202)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213193000 +0000" stop="20251213200000 +0000">
-    <title lang="zh">新聞鑒證組 (202)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213200000 +0000" stop="20251213203000 +0000">
-    <title lang="zh">紅旗 發現大灣區 (148)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213203000 +0000" stop="20251213210000 +0000">
-    <title lang="zh">我們和牠們 (148)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213210000 +0000" stop="20251213220000 +0000">
-    <title lang="zh">皇牌大放送</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213220000 +0000" stop="20251213223000 +0000">
-    <title lang="zh">紀錄大時代 (1351)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213223000 +0000" stop="20251213230000 +0000">
-    <title lang="zh">築夢天下 (458)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213230000 +0000" stop="20251213235500 +0000">
-    <title lang="zh">鳳凰早班車 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251213235500 +0000" stop="20251214000000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214000000 +0000" stop="20251214005500 +0000">
-    <title lang="zh">(續) 鳳凰早班車 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214005500 +0000" stop="20251214010000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214010000 +0000" stop="20251214014500 +0000">
-    <title lang="zh">大新聞大歷史 (514)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214014500 +0000" stop="20251214020000 +0000">
-    <title lang="zh">我的香港故事 (202)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214020000 +0000" stop="20251214025700 +0000">
-    <title lang="zh">鳳凰正點播報 1000 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214025700 +0000" stop="20251214030000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214030000 +0000" stop="20251214040000 +0000">
-    <title lang="zh">皇牌大放送</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214040000 +0000" stop="20251214045700 +0000">
-    <title lang="zh">中免集團 
-鳳凰午間專列 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214045700 +0000" stop="20251214050000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214050000 +0000" stop="20251214060000 +0000">
-    <title lang="zh">格力 一虎一席談 (1034)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214060000 +0000" stop="20251214063000 +0000">
-    <title lang="zh">我們和牠們 (95)(R)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214063000 +0000" stop="20251214070000 +0000">
-    <title lang="zh">我們和牠們 (96)(R)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214070000 +0000" stop="20251214075700 +0000">
-    <title lang="zh">鳳凰正點播報 1500 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214075700 +0000" stop="20251214080000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214080000 +0000" stop="20251214083000 +0000">
-    <title lang="zh">新聞鑒證組 (202)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214083000 +0000" stop="20251214090000 +0000">
-    <title lang="zh">紀錄大時代 (1352)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214090000 +0000" stop="20251214100000 +0000">
-    <title lang="zh">皇牌大放送</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214100000 +0000" stop="20251214102700 +0000">
-    <title lang="zh">鳳凰焦點新聞 1800 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214102700 +0000" stop="20251214103000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214103000 +0000" stop="20251214110000 +0000">
-    <title lang="zh">以岭葯業 
-新聞今日談 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214110000 +0000" stop="20251214113000 +0000">
-    <title lang="zh">築夢天下 (459)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214113000 +0000" stop="20251214123000 +0000">
-    <title lang="zh">魯南制葯.啟達力 
-鳳凰大健康 (364)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214123000 +0000" stop="20251214130000 +0000">
-    <title lang="zh">名人面對面 (438)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214130000 +0000" stop="20251214135500 +0000">
-    <title lang="zh">五粮液 
-時事直通車 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214135500 +0000" stop="20251214140000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214140000 +0000" stop="20251214143000 +0000">
-    <title lang="zh">中國茅台 近觀中國 (203)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214143000 +0000" stop="20251214144500 +0000">
-    <title lang="zh">我的香港故事 (203)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214144500 +0000" stop="20251214153000 +0000">
-    <title lang="zh">笑逐言開 (608)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368338" start="20251214153000 +0000" stop="20251214160000 +0000">
-    <title lang="zh">以岭葯業 
-新聞今日談 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme channel="368338" start="20251214160000 +0000" stop="20251214162700 +0000">
     <title lang="zh">鳳凰洲際快車 (15/12/25)</title>
     <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目,為您帶來兩岸三地,以及國際社會的大小新聞、最新動態和局勢發展。</desc>
@@ -3371,7 +3037,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368338" start="20251220160000 +0000" stop="20251221160000 +0000">
+  <programme channel="368338" start="20251220160000 +0000" stop="20251220162700 +0000">
     <title lang="zh">鳳凰洲際快車 (21/12/25)</title>
     <desc />
     <date>20251221</date>
@@ -3379,522 +3045,361 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251213160000 +0000" stop="20251213162700 +0000">
-    <title lang="zh">鳳凰洲際快車 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213162700 +0000" stop="20251213163000 +0000">
+  <programme channel="368338" start="20251220162700 +0000" stop="20251220163000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251213163000 +0000" stop="20251213170000 +0000">
-    <title lang="zh">以岭葯業 新聞今日談 (13/12/25)(RP)</title>
+  <programme channel="368338" start="20251220163000 +0000" stop="20251220170000 +0000">
+    <title lang="zh">香港新視點 (485)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251213170000 +0000" stop="20251213172700 +0000">
-    <title lang="zh">鳳凰正點播報 0100 (14/12/25)</title>
+  <programme channel="368338" start="20251220170000 +0000" stop="20251220180000 +0000">
+    <title lang="zh">格力 一虎一席談 (1035)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251213172700 +0000" stop="20251213173000 +0000">
+  <programme channel="368338" start="20251220180000 +0000" stop="20251220183000 +0000">
+    <title lang="zh">紀錄大時代 (1358)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220183000 +0000" stop="20251220190000 +0000">
+    <title lang="zh">百姓食堂 (II) (5)(R)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220190000 +0000" stop="20251220193000 +0000">
+    <title lang="zh">中國茅台 
+近觀中國 (203)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220193000 +0000" stop="20251220200000 +0000">
+    <title lang="zh">新聞鑒證組 (203)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220200000 +0000" stop="20251220203000 +0000">
+    <title lang="zh">紅旗 發現大灣區 (149)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220203000 +0000" stop="20251220210000 +0000">
+    <title lang="zh">我們和牠們 (149)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220210000 +0000" stop="20251220220000 +0000">
+    <title lang="zh">皇牌大放送</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220220000 +0000" stop="20251220223000 +0000">
+    <title lang="zh">紀錄大時代 (1358)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220223000 +0000" stop="20251220230000 +0000">
+    <title lang="zh">築夢天下 (459)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220230000 +0000" stop="20251220235500 +0000">
+    <title lang="zh">鳳凰早班車 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251220235500 +0000" stop="20251221000000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251213173000 +0000" stop="20251213175700 +0000">
-    <title lang="zh">鳳凰正點播報 0100 (14/12/25)(RP)</title>
+  <programme channel="368338" start="20251221000000 +0000" stop="20251221005500 +0000">
+    <title lang="zh">(續) 鳳凰早班車 (21/12/25)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251213175700 +0000" stop="20251213180000 +0000">
+  <programme channel="368338" start="20251221005500 +0000" stop="20251221010000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251213180000 +0000" stop="20251213182700 +0000">
-    <title lang="zh">鳳凰正點播報 0100 (14/12/25)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213182700 +0000" stop="20251213183000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213183000 +0000" stop="20251213190000 +0000">
-    <title lang="zh">新聞鑒證組  (202)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213190000 +0000" stop="20251213192700 +0000">
-    <title lang="zh">鳳凰正點播報 0100 (14/12/25)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213192700 +0000" stop="20251213193000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213193000 +0000" stop="20251213200000 +0000">
-    <title lang="zh">風雲對話  (398)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213200000 +0000" stop="20251213202700 +0000">
-    <title lang="zh">鳳凰正點播報 0100 (14/12/25)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213202700 +0000" stop="20251213203000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213203000 +0000" stop="20251213210000 +0000">
-    <title lang="zh">香港新視點   (484)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213210000 +0000" stop="20251213212700 +0000">
-    <title lang="zh">鳳凰正點播報 0100 (14/12/25)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213212700 +0000" stop="20251213213000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213213000 +0000" stop="20251213220000 +0000">
-    <title lang="zh">*以岭葯業 新聞今日談 (13/12/25)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213220000 +0000" stop="20251213222700 +0000">
-    <title lang="zh">鳳凰正點播報 0100 (14/12/25)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213222700 +0000" stop="20251213223000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213223000 +0000" stop="20251213230000 +0000">
-    <title lang="zh">風雲對話 (398)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213230000 +0000" stop="20251213235500 +0000">
-    <title lang="zh">鳳凰早班車  (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251213235500 +0000" stop="20251214000000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214000000 +0000" stop="20251214005500 +0000">
-    <title lang="zh">(續)鳳凰早班車 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214005500 +0000" stop="20251214010000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214010000 +0000" stop="20251214012700 +0000">
-    <title lang="zh">鳳凰正點播報 0900 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214012700 +0000" stop="20251214013000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214013000 +0000" stop="20251214020000 +0000">
-    <title lang="zh">風雲對話  (398)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214020000 +0000" stop="20251214025700 +0000">
-    <title lang="zh">鳳凰正點播報 1000 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214025700 +0000" stop="20251214030000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214030000 +0000" stop="20251214034500 +0000">
-    <title lang="zh">鳳凰正點播報 1100  (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214034500 +0000" stop="20251214040000 +0000">
-    <title lang="zh">我的香港故事  (202)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214040000 +0000" stop="20251214045700 +0000">
-    <title lang="zh">*中免集團  鳳凰午間專列  (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214045700 +0000" stop="20251214050000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214050000 +0000" stop="20251214052700 +0000">
-    <title lang="zh">鳳凰正點播報 1300 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214052700 +0000" stop="20251214053000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214053000 +0000" stop="20251214060000 +0000">
-    <title lang="zh">築夢天下 (458)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214060000 +0000" stop="20251214062700 +0000">
-    <title lang="zh">鳳凰正點播報 1400 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214062700 +0000" stop="20251214063000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214063000 +0000" stop="20251214070000 +0000">
-    <title lang="zh">風雲對話  (398)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214070000 +0000" stop="20251214075700 +0000">
-    <title lang="zh">鳳凰正點播報 1500  (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214075700 +0000" stop="20251214080000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214080000 +0000" stop="20251214082700 +0000">
-    <title lang="zh">鳳凰正點播報 1600 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214082700 +0000" stop="20251214083000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214083000 +0000" stop="20251214090000 +0000">
-    <title lang="zh">*口子窖 問答神州 (979)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214090000 +0000" stop="20251214091500 +0000">
-    <title lang="zh">鳳凰正點播報 1700 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214091500 +0000" stop="20251214100000 +0000">
-    <title lang="zh">中國深度財經  (729)(RP)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214100000 +0000" stop="20251214102700 +0000">
-    <title lang="zh">*陽光保險  鳳凰焦點新聞 1800  (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214102700 +0000" stop="20251214103000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214103000 +0000" stop="20251214110000 +0000">
-    <title lang="zh">*以岭葯業 新聞今日談 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214110000 +0000" stop="20251214111300 +0000">
-    <title lang="zh">*賽輪輪胎 華聞大直播 (14/12/25)</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214111300 +0000" stop="20251214111500 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20251214</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="368343" start="20251214111500 +0000" stop="20251214120000 +0000">
+  <programme channel="368338" start="20251221010000 +0000" stop="20251221014500 +0000">
     <title lang="zh">大新聞大歷史 (515)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214120000 +0000" stop="20251214122700 +0000">
-    <title lang="zh">*陽光保險  鳳凰焦點新聞 2000  (14/12/25)</title>
+  <programme channel="368338" start="20251221014500 +0000" stop="20251221020000 +0000">
+    <title lang="zh">我的香港故事 (203)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214122700 +0000" stop="20251214123000 +0000">
+  <programme channel="368338" start="20251221020000 +0000" stop="20251221025700 +0000">
+    <title lang="zh">鳳凰正點播報 1000 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221025700 +0000" stop="20251221030000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214123000 +0000" stop="20251214130000 +0000">
-    <title lang="zh">香港新視點  (484)(RP)</title>
+  <programme channel="368338" start="20251221030000 +0000" stop="20251221040000 +0000">
+    <title lang="zh">皇牌大放送</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214130000 +0000" stop="20251214135500 +0000">
-    <title lang="zh">*五粮液 時事直通車 (14/12/25)</title>
+  <programme channel="368338" start="20251221040000 +0000" stop="20251221045700 +0000">
+    <title lang="zh">中免集團 
+鳳凰午間專列 (21/12/25)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214135500 +0000" stop="20251214140000 +0000">
+  <programme channel="368338" start="20251221045700 +0000" stop="20251221050000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214140000 +0000" stop="20251214142700 +0000">
-    <title lang="zh">鳳凰正點播報 2200 (14/12/25)</title>
+  <programme channel="368338" start="20251221050000 +0000" stop="20251221060000 +0000">
+    <title lang="zh">格力 一虎一席談 (1035)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214142700 +0000" stop="20251214143000 +0000">
+  <programme channel="368338" start="20251221060000 +0000" stop="20251221063000 +0000">
+    <title lang="zh">我們和牠們 (97)(R)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221063000 +0000" stop="20251221070000 +0000">
+    <title lang="zh">我們和牠們 (98(R)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221070000 +0000" stop="20251221075700 +0000">
+    <title lang="zh">鳳凰正點播報 1500 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221075700 +0000" stop="20251221080000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214143000 +0000" stop="20251214150000 +0000">
-    <title lang="zh">*以岭葯業 新聞今日談 (14/12/25)(RP)</title>
+  <programme channel="368338" start="20251221080000 +0000" stop="20251221083000 +0000">
+    <title lang="zh">新聞鑒證組 (203)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214150000 +0000" stop="20251214151500 +0000">
-    <title lang="zh">鳳凰正點播報 2300 (14/12/25)</title>
+  <programme channel="368338" start="20251221083000 +0000" stop="20251221090000 +0000">
+    <title lang="zh">紀錄大時代 (1359)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214151500 +0000" stop="20251214153000 +0000">
-    <title lang="zh">我的香港故事  (202)(RP)</title>
+  <programme channel="368338" start="20251221090000 +0000" stop="20251221100000 +0000">
+    <title lang="zh">皇牌大放送</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251214153000 +0000" stop="20251214160000 +0000">
-    <title lang="zh">*口子窖 問答神州  (979)(RP)</title>
+  <programme channel="368338" start="20251221100000 +0000" stop="20251221102700 +0000">
+    <title lang="zh">鳳凰焦點新聞 1800 (21/12/25)</title>
     <desc />
-    <date>20251214</date>
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221102700 +0000" stop="20251221103000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221103000 +0000" stop="20251221110000 +0000">
+    <title lang="zh">以岭葯業 
+新聞今日談 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221110000 +0000" stop="20251221113000 +0000">
+    <title lang="zh">築夢天下 (460)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221113000 +0000" stop="20251221123000 +0000">
+    <title lang="zh">魯南制葯.啟達力 
+鳳凰大健康 (365)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221123000 +0000" stop="20251221130000 +0000">
+    <title lang="zh">名人面對面 (439)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221130000 +0000" stop="20251221135500 +0000">
+    <title lang="zh">五粮液 
+時事直通車 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221135500 +0000" stop="20251221140000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221140000 +0000" stop="20251221143000 +0000">
+    <title lang="zh">中國茅台 
+近觀中國 (204)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221143000 +0000" stop="20251221144500 +0000">
+    <title lang="zh">我的香港故事 (204)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221144500 +0000" stop="20251221153000 +0000">
+    <title lang="zh">笑逐言開 (609)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221153000 +0000" stop="20251221160000 +0000">
+    <title lang="zh">以岭葯業 
+新聞今日談 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368338" start="20251221160000 +0000" stop="20251222160000 +0000">
+    <title lang="zh">鳳凰洲際快車 (22/12/25)</title>
+    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目,為您帶來兩岸三地,以及國際社會的大小新聞、最新動態和局勢發展。</desc>
+    <date>20251222</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -6479,10 +5984,887 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="368343" start="20251220160000 +0000" stop="20251221160000 +0000">
+  <programme channel="368343" start="20251220160000 +0000" stop="20251220162700 +0000">
     <title lang="zh">鳳凰洲際快車 (21/12/25)</title>
     <desc />
     <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220162700 +0000" stop="20251220163000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220163000 +0000" stop="20251220170000 +0000">
+    <title lang="zh">以岭葯業 新聞今日談 (20/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220170000 +0000" stop="20251220172700 +0000">
+    <title lang="zh">鳳凰正點播報 0100 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220172700 +0000" stop="20251220173000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220173000 +0000" stop="20251220175700 +0000">
+    <title lang="zh">鳳凰正點播報 0100 (21/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220175700 +0000" stop="20251220180000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220180000 +0000" stop="20251220182700 +0000">
+    <title lang="zh">鳳凰正點播報 0100 (21/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220182700 +0000" stop="20251220183000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220183000 +0000" stop="20251220190000 +0000">
+    <title lang="zh">新聞鑒證組 
+(203)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220190000 +0000" stop="20251220192700 +0000">
+    <title lang="zh">鳳凰正點播報 0100 (21/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220192700 +0000" stop="20251220193000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220193000 +0000" stop="20251220200000 +0000">
+    <title lang="zh">風雲對話
+ (399)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220200000 +0000" stop="20251220202700 +0000">
+    <title lang="zh">鳳凰正點播報 0100 (21/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220202700 +0000" stop="20251220203000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220203000 +0000" stop="20251220210000 +0000">
+    <title lang="zh">香港新視點  
+(485)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220210000 +0000" stop="20251220212700 +0000">
+    <title lang="zh">鳳凰正點播報 0100 (21/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220212700 +0000" stop="20251220213000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220213000 +0000" stop="20251220220000 +0000">
+    <title lang="zh">*以岭葯業 新聞今日談 (20/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220220000 +0000" stop="20251220222700 +0000">
+    <title lang="zh">鳳凰正點播報 0100 (21/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220222700 +0000" stop="20251220223000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220223000 +0000" stop="20251220230000 +0000">
+    <title lang="zh">風雲對話
+ (399)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220230000 +0000" stop="20251220235500 +0000">
+    <title lang="zh">鳳凰早班車 
+(21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251220235500 +0000" stop="20251221000000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221000000 +0000" stop="20251221005500 +0000">
+    <title lang="zh">(續)鳳凰早班車 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221005500 +0000" stop="20251221010000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221010000 +0000" stop="20251221012700 +0000">
+    <title lang="zh">鳳凰正點播報 0900 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221012700 +0000" stop="20251221013000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221013000 +0000" stop="20251221020000 +0000">
+    <title lang="zh">風雲對話
+ (399)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221020000 +0000" stop="20251221025700 +0000">
+    <title lang="zh">鳳凰正點播報 1000 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221025700 +0000" stop="20251221030000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221030000 +0000" stop="20251221034500 +0000">
+    <title lang="zh">鳳凰正點播報 1100  (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221034500 +0000" stop="20251221040000 +0000">
+    <title lang="zh">我的香港故事 
+(203)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221040000 +0000" stop="20251221045700 +0000">
+    <title lang="zh">*中免集團 
+鳳凰午間專列
+ (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221045700 +0000" stop="20251221050000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221050000 +0000" stop="20251221052700 +0000">
+    <title lang="zh">鳳凰正點播報 1300 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221052700 +0000" stop="20251221053000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221053000 +0000" stop="20251221060000 +0000">
+    <title lang="zh">築夢天下 (459)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221060000 +0000" stop="20251221062700 +0000">
+    <title lang="zh">鳳凰正點播報 1400 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221062700 +0000" stop="20251221063000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221063000 +0000" stop="20251221070000 +0000">
+    <title lang="zh">風雲對話
+ (399)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221070000 +0000" stop="20251221075700 +0000">
+    <title lang="zh">鳳凰正點播報 1500  (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221075700 +0000" stop="20251221080000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221080000 +0000" stop="20251221082700 +0000">
+    <title lang="zh">鳳凰正點播報 1600 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221082700 +0000" stop="20251221083000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221083000 +0000" stop="20251221090000 +0000">
+    <title lang="zh">*口子窖 問答神州 (980)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221090000 +0000" stop="20251221091500 +0000">
+    <title lang="zh">鳳凰正點播報 1700 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221091500 +0000" stop="20251221100000 +0000">
+    <title lang="zh">中國深度財經
+ (730)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221100000 +0000" stop="20251221102700 +0000">
+    <title lang="zh">*陽光保險
+ 鳳凰焦點新聞 1800
+ (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221102700 +0000" stop="20251221103000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221103000 +0000" stop="20251221110000 +0000">
+    <title lang="zh">*以岭葯業 新聞今日談 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221110000 +0000" stop="20251221111300 +0000">
+    <title lang="zh">*賽輪輪胎 華聞大直播 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221111300 +0000" stop="20251221111500 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221111500 +0000" stop="20251221120000 +0000">
+    <title lang="zh">大新聞大歷史 (516)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221120000 +0000" stop="20251221122700 +0000">
+    <title lang="zh">*陽光保險 
+鳳凰焦點新聞 2000 
+(21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221122700 +0000" stop="20251221123000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221123000 +0000" stop="20251221130000 +0000">
+    <title lang="zh">香港新視點 
+ (485)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221130000 +0000" stop="20251221135500 +0000">
+    <title lang="zh">*五粮液 時事直通車  (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221135500 +0000" stop="20251221140000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221140000 +0000" stop="20251221142700 +0000">
+    <title lang="zh">鳳凰正點播報 2200 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221142700 +0000" stop="20251221143000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221143000 +0000" stop="20251221150000 +0000">
+    <title lang="zh">*以岭葯業 新聞今日談 (21/12/25)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221150000 +0000" stop="20251221151500 +0000">
+    <title lang="zh">鳳凰正點播報 2300 (21/12/25)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221151500 +0000" stop="20251221153000 +0000">
+    <title lang="zh">我的香港故事
+ (203)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221153000 +0000" stop="20251221160000 +0000">
+    <title lang="zh">*口子窖 問答神州 (980)(RP)</title>
+    <desc />
+    <date>20251221</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="368343" start="20251221160000 +0000" stop="20251222160000 +0000">
+    <title lang="zh">鳳凰洲際快車</title>
+    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目,為您帶來兩岸三地,以及國際社會的大小新聞、最新動態和局勢發展。</desc>
+    <date>20251222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <channel id="460843">
+    <display-name lang="TW">博斯無限台HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="460843" start="20251214160000 +0000" stop="20251214190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 決賽 TRU vs WIL(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251214190000 +0000" stop="20251214220000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 8強 SEL vs GIL(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251214220000 +0000" stop="20251214230000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 第三輪 TRU vs DAV(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251214230000 +0000" stop="20251215010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 16強 SEL vs UN-NOO(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215010000 +0000" stop="20251215040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 決賽 TRU vs WIL(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215040000 +0000" stop="20251215070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(1) SEL vs ZHO(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215070000 +0000" stop="20251215100000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 決賽 TRU vs WIL(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215100000 +0000" stop="20251215130000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 8強 TRU vs ALL(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215130000 +0000" stop="20251215160000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽第一輪2100-0000(普)</title>
+    <desc />
+    <date>20251215</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215160000 +0000" stop="20251215173000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第一輪 DIN vs O'DON(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215173000 +0000" stop="20251215190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 DIN vs VAF(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215190000 +0000" stop="20251215220000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽第一輪0300-0600(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215220000 +0000" stop="20251215230000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 第三輪 WIL vs FU(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251215230000 +0000" stop="20251216010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 16強 SEL vs UN-NOO(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216010000 +0000" stop="20251216023000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第一輪 DIN vs O'DON(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216023000 +0000" stop="20251216040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 DIN vs VAF(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216040000 +0000" stop="20251216070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(2) ALL vs JON(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216070000 +0000" stop="20251216130000 +0000">
+    <title lang="zh">首播2025-26司諾克賽季蘇格蘭公開賽第一輪(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216130000 +0000" stop="20251216160000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽第一輪2100-0000(普)</title>
+    <desc />
+    <date>20251216</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216160000 +0000" stop="20251216173000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第一輪 O'SUL vs HE(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216173000 +0000" stop="20251216190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 DIN vs VAF(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216190000 +0000" stop="20251216220000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽第一輪0300-0600(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251216220000 +0000" stop="20251217010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 8強 SEL vs GIL(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217010000 +0000" stop="20251217023000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第一輪 O'SUL vs HE(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217023000 +0000" stop="20251217040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 DIN vs VAF(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217040000 +0000" stop="20251217070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 決賽 ALL vs ZHO(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217070000 +0000" stop="20251217130000 +0000">
+    <title lang="zh">首播2025-26司諾克賽季蘇格蘭公開賽第一輪(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217130000 +0000" stop="20251217160000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽第二輪2100-0000(普)</title>
+    <desc />
+    <date>20251217</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217160000 +0000" stop="20251217190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN(普)</title>
+    <desc />
+    <date>20251218</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217190000 +0000" stop="20251217220000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽第二輪0300-0600(普)</title>
+    <desc />
+    <date>20251218</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251217220000 +0000" stop="20251218010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 8強 TRU vs ALL(普)</title>
+    <desc />
+    <date>20251218</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251218010000 +0000" stop="20251218040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN(普)</title>
+    <desc />
+    <date>20251218</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251218040000 +0000" stop="20251218070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第一輪(1)GUR vs EVA(普)</title>
+    <desc />
+    <date>20251218</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251218070000 +0000" stop="20251218130000 +0000">
+    <title lang="zh">首播2025-26司諾克賽季蘇格蘭公開賽第二輪(普)</title>
+    <desc />
+    <date>20251218</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251218130000 +0000" stop="20251218160000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽十六強2100-0000(普)</title>
+    <desc />
+    <date>20251218</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251218160000 +0000" stop="20251218190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA(普)</title>
+    <desc />
+    <date>20251219</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251218190000 +0000" stop="20251218220000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽十六強0300-0600(普)</title>
+    <desc />
+    <date>20251219</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251218220000 +0000" stop="20251219010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 英國公開賽 4強 ALL vs SEL(普)</title>
+    <desc />
+    <date>20251219</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251219010000 +0000" stop="20251219040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA(普)</title>
+    <desc />
+    <date>20251219</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251219040000 +0000" stop="20251219070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 司諾克大師賽 第一輪(3)YAS vs NG(普)</title>
+    <desc />
+    <date>20251219</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251219070000 +0000" stop="20251219120000 +0000">
+    <title lang="zh">首播2025-26司諾克賽季蘇格蘭公開賽十六強(普)</title>
+    <desc />
+    <date>20251219</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20251219120000 +0000" stop="20251219160000 +0000">
+    <title lang="zh">LIVE2025-26司諾克賽季蘇格蘭公開賽八強2000-0000(普)</title>
+    <desc />
+    <date>20251219</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
