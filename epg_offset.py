@@ -22,6 +22,12 @@ SOURCES = [
         "epg": "https://epg.pw/xmltv/epg_HK.xml",
         "offset": -8
     },
+    {
+        "name": "台湾频道",
+        "m3u": "https://www.dropbox.com/scl/fi/qn06cpz5wecrswxtpvf5a/TV-List_TW.m3u?rlkey=f5hdt4hsx3ai6gbeqw52qijef&st=cksu3zx1&raw=1",
+        "epg": "https://epg.pw/xmltv/epg_TW.xml",
+        "offset": -8
+    },
 ]
 
 # 输出文件名
