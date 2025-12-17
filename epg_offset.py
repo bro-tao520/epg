@@ -12,8 +12,8 @@ SOURCES = [
     {
         "name": "大陆频道",  # 方便看日志的名字
         "m3u": "https://www.dropbox.com/scl/fi/5vio2bkhbnbsaa1naousm/TV-List_CN.m3u?rlkey=q8ynpyirdhgr1xuwnyjy4u96a&st=cs09g57z&raw=1",
-        "epg": "https://epg.pw/xmltv/epg_CN.xml",
-        "offset": -8
+        "epg": "https://epg.112114.xyz/pp.xml",
+        "offset": 0
     },
     # 可以在下面复制添加更多源...
     {
