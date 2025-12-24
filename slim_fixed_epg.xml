@@ -2,209 +2,224 @@
 <tv generator-info-name="EPG-Merger-Bot" generator-info-url="https://github.com/"><channel id="CCTV5">
 		<display-name lang="zh">CCTV5</display-name>
 	</channel>
-	<programme channel="CCTV5" start="20251224000500 +0800" stop="20251224003500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 射击比赛1（4K）</title>
+	<programme channel="CCTV5" start="20251225002000 +0800" stop="20251225003500 +0800">
+		<title lang="zh">实况录像-荣耀十分 苏翊鸣获大跳台世界杯云顶站冠军</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224003500 +0800" stop="20251224013500 +0800">
-		<title lang="zh">顶级赛事-围棋</title>
+	<programme channel="CCTV5" start="20251225003500 +0800" stop="20251225013500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 田径比赛2（4K）</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224013500 +0800" stop="20251224023600 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子3米板决赛（4K）</title>
+	<programme channel="CCTV5" start="20251225013500 +0800" stop="20251225023600 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子10米台决赛（4K）</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224023600 +0800" stop="20251224040000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第3轮 北京北汽—辽宁本钢</title>
+	<programme channel="CCTV5" start="20251225023600 +0800" stop="20251225040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第3轮 广东东阳光—广州朗肽海本</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224040000 +0800" stop="20251224053000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第12轮 里昂—巴黎圣日耳曼</title>
+	<programme channel="CCTV5" start="20251225040000 +0800" stop="20251225053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第13轮 西汉姆联—利物浦</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224053000 +0800" stop="20251224060000 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
+	<programme channel="CCTV5" start="20251225053000 +0800" stop="20251225060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224060000 +0800" stop="20251224063000 +0800">
-		<title lang="zh">实况录像-2025年三人篮球世界杯 4</title>
+	<programme channel="CCTV5" start="20251225060000 +0800" stop="20251225063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 5</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224063000 +0800" stop="20251224070000 +0800">
+	<programme channel="CCTV5" start="20251225063000 +0800" stop="20251225070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224070000 +0800" stop="20251224090500 +0800">
+	<programme channel="CCTV5" start="20251225070000 +0800" stop="20251225090500 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224090500 +0800" stop="20251224103100 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第17轮 埃弗顿—阿森纳</title>
+	<programme channel="CCTV5" start="20251225090500 +0800" stop="20251225103100 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第17轮（比利亚雷亚尔—巴塞罗那）（4K）</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224103100 +0800" stop="20251224120000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮 上海久事—浙江稠州金租</title>
+	<programme channel="CCTV5" start="20251225103100 +0800" stop="20251225120000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮 新疆伊力特—青岛崂山啤酒</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224120000 +0800" stop="20251224130500 +0800">
+	<programme channel="CCTV5" start="20251225120000 +0800" stop="20251225130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224130500 +0800" stop="20251224132700 +0800">
+	<programme channel="CCTV5" start="20251225130500 +0800" stop="20251225132700 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224132700 +0800" stop="20251224140000 +0800">
-		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-男子钢架雪车决赛2</title>
+	<programme channel="CCTV5" start="20251225132700 +0800" stop="20251225140000 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-女子钢架雪车决赛2</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224140000 +0800" stop="20251224150000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季国际雪联大跳台世界杯 北京站 自由式滑雪女子、男子决赛</title>
+	<programme channel="CCTV5" start="20251225140000 +0800" stop="20251225150000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季国际雪联大跳台世界杯 北京站 单板滑雪女子、男子决赛</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224150000 +0800" stop="20251224160000 +0800">
-		<title lang="zh">实况录像-2025年世乒联总决赛 3</title>
+	<programme channel="CCTV5" start="20251225150000 +0800" stop="20251225160000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 荷兰站 1</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224160000 +0800" stop="20251224180000 +0800">
-		<title lang="zh">运动一起赢</title>
+	<programme channel="CCTV5" start="20251225160000 +0800" stop="20251225173000 +0800">
+		<title lang="zh">运动一起赢-2025-231</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224180000 +0800" stop="20251224190000 +0800">
-		<title lang="zh">体育新闻</title>
+	<programme channel="CCTV5" start="20251225173000 +0800" stop="20251225183000 +0800">
+		<title lang="zh">体育新闻-2025.12.25</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224190000 +0800" stop="20251224193000 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛-第17轮集锦</title>
+	<programme channel="CCTV5" start="20251225183000 +0800" stop="20251225190000 +0800">
+		<title lang="zh">体坛零距离-2025-49(4K)</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224193000 +0800" stop="20251224214500 +0800">
-		<title lang="zh">2025/2026赛季中国男子篮球职业联赛-常规赛第5轮(新疆伊力特-青岛崂山啤酒)</title>
+	<programme channel="CCTV5" start="20251225190000 +0800" stop="20251225200000 +0800">
+		<title lang="zh">足球之夜-2025-48</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224214500 +0800" stop="20251224225000 +0800">
-		<title lang="zh">体育世界</title>
+	<programme channel="CCTV5" start="20251225200000 +0800" stop="20251225220000 +0800">
+		<title lang="zh">2025/2026赛季中国排球超级联赛-男子第4轮（青岛兴轮呦呦-上海光明）</title>
 	</programme>
-	<programme channel="CCTV5" start="20251224225000 +0800" stop="20251224235900 +0800">
-		<title lang="zh">实况录像-聚力2025-CMG体育记忆 1</title>
+	<programme channel="CCTV5" start="20251225220000 +0800" stop="20251225223500 +0800">
+		<title lang="zh">体育世界-2025.12.25</title>
+	</programme>
+	<programme channel="CCTV5" start="20251225223500 +0800" stop="20251225235900 +0800">
+		<title lang="zh">实况录像-聚力2025-CMG体育记忆 2</title>
 	</programme>
 	<channel id="CCTV5+">
 		<display-name lang="zh">CCTV5+</display-name>
 	</channel>
-	<programme channel="CCTV5+" start="20251224000000 +0800" stop="20251224010000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子10米台决赛（4K）</title>
+	<programme channel="CCTV5+" start="20251225000500 +0800" stop="20251225010600 +0800">
+		<title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 波兰站 2</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224010000 +0800" stop="20251224023000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第4轮 北京北汽—深圳马可波罗</title>
+	<programme channel="CCTV5+" start="20251225010600 +0800" stop="20251225023600 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第4轮 浙江方兴渡—上海久事</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224023000 +0800" stop="20251224040000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第7轮 梅斯—马赛</title>
+	<programme channel="CCTV5+" start="20251225023600 +0800" stop="20251225040000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第8轮 曼彻斯特城—埃弗顿</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224040000 +0800" stop="20251224060000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 2</title>
+	<programme channel="CCTV5+" start="20251225040000 +0800" stop="20251225060000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224060000 +0800" stop="20251224073000 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
+	<programme channel="CCTV5+" start="20251225060000 +0800" stop="20251225073000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 尤金站</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224073000 +0800" stop="20251224083000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 美国铜山站 U型场地</title>
+	<programme channel="CCTV5+" start="20251225073000 +0800" stop="20251225090000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 排球女子决赛（4K）</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224083000 +0800" stop="20251224100000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮 辽宁本钢—北京控股</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224100000 +0800" stop="20251224130500 +0800">
-		<title lang="zh">2025/2026赛季北美冰球职业联赛-常规赛20（费城飞人—芝加哥黑鹰）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224130500 +0800" stop="20251224140500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 游泳比赛1（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224140500 +0800" stop="20251224150500 +0800">
-		<title lang="zh">实况录像-2025年世乒联总决赛 3</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224150500 +0800" stop="20251224163500 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第17轮 埃弗顿—阿森纳</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224163500 +0800" stop="20251224180500 +0800">
-		<title lang="zh">实况录像-2025/2026赛季斯诺克英国锦标赛 决赛</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224180500 +0800" stop="20251224193500 +0800">
+	<programme channel="CCTV5+" start="20251225090000 +0800" stop="20251225103000 +0800">
 		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮 上海久事—浙江稠州金租</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224193500 +0800" stop="20251224203500 +0800">
-		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 3</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224203500 +0800" stop="20251224210500 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛-第17轮集锦</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251224210500 +0800" stop="20251224220500 +0800">
+	<programme channel="CCTV5+" start="20251225103000 +0800" stop="20251225113000 +0800">
 		<title lang="zh">2025/2026赛季自由式滑雪世界杯 意大利因尼辰站-障碍追逐决赛</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224220500 +0800" stop="20251224233500 +0800">
-		<title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第15轮 巴塞罗那—奥林匹亚科斯</title>
+	<programme channel="CCTV5+" start="20251225113000 +0800" stop="20251225123000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 游泳比赛2（4K）</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251224233500 +0800" stop="20251224235900 +0800">
-		<title lang="zh">实况录像-残特奥会 比赛 3</title>
+	<programme channel="CCTV5+" start="20251225123000 +0800" stop="20251225133000 +0800">
+		<title lang="zh">实况录像-2025年世乒联总决赛 4</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225133000 +0800" stop="20251225150000 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第17轮（比利亚雷亚尔—巴塞罗那）（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225150000 +0800" stop="20251225160000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子3米板决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225160000 +0800" stop="20251225163000 +0800">
+		<title lang="zh">实况录像-2025年世界跆拳道锦标赛 1</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225163000 +0800" stop="20251225180000 +0800">
+		<title lang="zh">2025中国之队熊猫杯国际足球锦标赛-（中国U22男足—韩国U22男足）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225180000 +0800" stop="20251225193000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮 新疆伊力特—青岛崂山啤酒</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225193000 +0800" stop="20251225203000 +0800">
+		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 4</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225203000 +0800" stop="20251225210000 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛-第17轮集锦</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225210000 +0800" stop="20251225220000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季高山滑雪世界杯 法国瓦勒迪泽尔站 女子超级大回转</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225220000 +0800" stop="20251225233000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第16轮 费内巴切—帕纳辛纳科斯</title>
+	</programme>
+	<programme channel="CCTV5+" start="20251225233000 +0800" stop="20251225235900 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-男子钢架雪车决赛2</title>
 	</programme>
 	<channel id="五星体育HD">
 		<display-name lang="zh">五星体育HD</display-name>
 	</channel>
-	<programme channel="五星体育HD" start="20251224003900 +0800" stop="20251224013400 +0800">
-		<title lang="zh">2025年沃尔沃中国公开赛决赛</title>
+	<programme channel="五星体育HD" start="20251225003900 +0800" stop="20251225013400 +0800">
+		<title lang="zh">2025上海明日之星排球争霸赛决赛</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224013400 +0800" stop="20251224022400 +0800">
-		<title lang="zh">2025东京马拉松</title>
+	<programme channel="五星体育HD" start="20251225013400 +0800" stop="20251225023400 +0800">
+		<title lang="zh">2025上海半程马拉松</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224022400 +0800" stop="20251224025900 +0800">
-		<title lang="zh">2025中超联赛第12轮:上海海港-青岛海牛</title>
+	<programme channel="五星体育HD" start="20251225023400 +0800" stop="20251225030900 +0800">
+		<title lang="zh">2025中超联赛第13轮:上海海港-山东泰山</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224025900 +0800" stop="20251224033400 +0800">
-		<title lang="zh">2025中超联赛第12轮:上海申花-青岛西海岸</title>
+	<programme channel="五星体育HD" start="20251225030900 +0800" stop="20251225034400 +0800">
+		<title lang="zh">2025中超联赛第13轮:大连英博-上海申花</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224033400 +0800" stop="20251224042900 +0800">
-		<title lang="zh">2025温布尔登网球锦标赛女单半决赛:本西奇-斯瓦泰克</title>
+	<programme channel="五星体育HD" start="20251225034400 +0800" stop="20251225043900 +0800">
+		<title lang="zh">2025温布尔登网球锦标赛男单半决赛:弗里茨-阿尔卡拉斯</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224042900 +0800" stop="20251224055000 +0800">
-		<title lang="zh">2025上海浪琴环球马术冠军赛5.2日场:1.55米障碍赛</title>
+	<programme channel="五星体育HD" start="20251225043900 +0800" stop="20251225055000 +0800">
+		<title lang="zh">2025上海浪琴环球马术冠军赛5.2夜场:1.60米障碍赛</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224055000 +0800" stop="20251224063000 +0800">
-		<title lang="zh">2025世界一级方程式锦标赛美国站大奖赛</title>
+	<programme channel="五星体育HD" start="20251225055000 +0800" stop="20251225063000 +0800">
+		<title lang="zh">2025世界一级方程式锦标赛墨西哥站大奖赛</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224063000 +0800" stop="20251224072400 +0800">
-		<title lang="zh">2024-25国际帆船大奖赛集锦 瑞士站</title>
+	<programme channel="五星体育HD" start="20251225063000 +0800" stop="20251225072400 +0800">
+		<title lang="zh">2024-25国际帆船大奖赛西班牙站集锦</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224072400 +0800" stop="20251224075000 +0800">
-		<title lang="zh">2025极速终点线10</title>
+	<programme channel="五星体育HD" start="20251225072400 +0800" stop="20251225075100 +0800">
+		<title lang="zh">2025极速终点线11</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224075000 +0800" stop="20251224092400 +0800">
-		<title lang="zh">2025世界斯诺克上海大师赛1/4决赛:丁俊晖-赵心童</title>
+	<programme channel="五星体育HD" start="20251225075100 +0800" stop="20251225092400 +0800">
+		<title lang="zh">2025世界斯诺克上海大师赛半决赛:塞尔比-卡特</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224092400 +0800" stop="20251224100000 +0800">
+	<programme channel="五星体育HD" start="20251225092400 +0800" stop="20251225100000 +0800">
 		<title lang="zh">健身时代精选36分钟</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224100000 +0800" stop="20251224120000 +0800">
+	<programme channel="五星体育HD" start="20251225100000 +0800" stop="20251225120000 +0800">
 		<title lang="zh">弈棋耍大牌-上海三打一</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224120000 +0800" stop="20251224123700 +0800">
+	<programme channel="五星体育HD" start="20251225120000 +0800" stop="20251225123600 +0800">
 		<title lang="zh">健身时代精选36分钟</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224123700 +0800" stop="20251224130000 +0800">
-		<title lang="zh">2024巴黎奥运会三人篮球女子小组赛</title>
+	<programme channel="五星体育HD" start="20251225123600 +0800" stop="20251225130000 +0800">
+		<title lang="zh">2024巴黎奥运会射击男子10米气步枪决赛</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224130000 +0800" stop="20251224140000 +0800">
+	<programme channel="五星体育HD" start="20251225130000 +0800" stop="20251225140000 +0800">
 		<title lang="zh">弈棋耍大牌</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224140000 +0800" stop="20251224140500 +0800">
-		<title lang="zh">健身时代精选周三</title>
+	<programme channel="五星体育HD" start="20251225140000 +0800" stop="20251225140500 +0800">
+		<title lang="zh">健身时代精选周四</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224140500 +0800" stop="20251224162400 +0800">
-		<title lang="zh">2025上海赛艇公开赛第二天下午场</title>
+	<programme channel="五星体育HD" start="20251225140500 +0800" stop="20251225143700 +0800">
+		<title lang="zh">2025环上海·新城自行车赛 松江-青浦赛段</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224162400 +0800" stop="20251224170000 +0800">
+	<programme channel="五星体育HD" start="20251225143700 +0800" stop="20251225153500 +0800">
+		<title lang="zh">2025-26赛季NBA常规赛:雷霆-森林狼</title>
+	</programme>
+	<programme channel="五星体育HD" start="20251225153500 +0800" stop="20251225162400 +0800">
+		<title lang="zh">2025中国壁球公开赛女单半决赛2</title>
+	</programme>
+	<programme channel="五星体育HD" start="20251225162400 +0800" stop="20251225170000 +0800">
 		<title lang="zh">健身时代精选36分钟</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224170000 +0800" stop="20251224180000 +0800">
+	<programme channel="五星体育HD" start="20251225170000 +0800" stop="20251225180000 +0800">
 		<title lang="zh">五星精彩-弈棋耍大牌精彩牌局</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224180000 +0800" stop="20251224190000 +0800">
+	<programme channel="五星体育HD" start="20251225180000 +0800" stop="20251225190000 +0800">
 		<title lang="zh">弈棋耍大牌</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224190000 +0800" stop="20251224193000 +0800">
+	<programme channel="五星体育HD" start="20251225190000 +0800" stop="20251225194500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224193000 +0800" stop="20251224210300 +0800">
-		<title lang="zh">2025metaSVS长三角青少年旱雪气垫大跳台公开赛</title>
+	<programme channel="五星体育HD" start="20251225194500 +0800" stop="20251225210300 +0800">
+		<title lang="zh">第十五届全国运动会乒乓球男团决赛</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224210300 +0800" stop="20251224215500 +0800">
-		<title lang="zh">2025世界无人机足球锦标赛第5集 首</title>
+	<programme channel="五星体育HD" start="20251225210300 +0800" stop="20251225215500 +0800">
+		<title lang="zh">2025世界无人机足球锦标赛第6集</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224215500 +0800" stop="20251224220000 +0800">
-		<title lang="zh">健身时代精选周三</title>
+	<programme channel="五星体育HD" start="20251225215500 +0800" stop="20251225220000 +0800">
+		<title lang="zh">健身时代精选周四</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224220000 +0800" stop="20251224234400 +0800">
+	<programme channel="五星体育HD" start="20251225220000 +0800" stop="20251225234400 +0800">
 		<title lang="zh">弈棋耍大牌-上海三打一</title>
 	</programme>
-	<programme channel="五星体育HD" start="20251224234400 +0800" stop="20251224235900 +0800">
-		<title lang="zh">2025-26赛季NFL常规赛:纽约巨人-新英格兰爱国者</title>
+	<programme channel="五星体育HD" start="20251225234400 +0800" stop="20251225235900 +0800">
+		<title lang="zh">2025-26赛季NFL常规赛:费城老鹰-洛杉矶闪电</title>
 	</programme>
 	<channel id="410355">
     <display-name lang="HK">鳳凰衛視資訊台</display-name>
