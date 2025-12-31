@@ -2,131 +2,152 @@
 <tv generator-info-name="EPG-Merger-Bot" generator-info-url="https://github.com/"><channel id="CCTV5">
 		<display-name lang="zh">CCTV5</display-name>
 	</channel>
-	<programme channel="CCTV5" start="20251231001500 +0800" stop="20251231011300 +0800">
-		<title lang="zh">顶级赛事-围棋</title>
+	<programme channel="CCTV5" start="20260101004000 +0800" stop="20260101005000 +0800">
+		<title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231011300 +0800" stop="20251231023800 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛 摩纳哥站</title>
+	<programme channel="CCTV5" start="20260101005000 +0800" stop="20260101010500 +0800">
+		<title lang="zh">实况录像-荣耀十分 苏翊鸣获大跳台世界杯云顶站冠军</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231023800 +0800" stop="20251231040000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第6轮 广东东阳光—山东高速</title>
+	<programme channel="CCTV5" start="20260101010500 +0800" stop="20260101023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231040000 +0800" stop="20251231053000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第10轮 洛里昂—巴黎圣日耳曼（4K）</title>
+	<programme channel="CCTV5" start="20260101023600 +0800" stop="20260101040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第7轮 浙江方兴渡—深圳马可波罗</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231053000 +0800" stop="20251231060000 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title>
+	<programme channel="CCTV5" start="20260101040000 +0800" stop="20260101053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第11轮 巴黎圣日耳曼—尼斯（4K）</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231060000 +0800" stop="20251231063000 +0800">
-		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-男子钢架雪车决赛1</title>
+	<programme channel="CCTV5" start="20260101053000 +0800" stop="20260101060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231063000 +0800" stop="20251231070000 +0800">
+	<programme channel="CCTV5" start="20260101060000 +0800" stop="20260101063000 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-女子钢架雪车决赛1</title>
+	</programme>
+	<programme channel="CCTV5" start="20260101063000 +0800" stop="20260101070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231070000 +0800" stop="20251231090500 +0800">
+	<programme channel="CCTV5" start="20260101070000 +0800" stop="20260101080500 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231090500 +0800" stop="20251231103000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第18轮 桑德兰—利兹联（4K）</title>
+	<programme channel="CCTV5" start="20260101080500 +0800" stop="20260101093500 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第8轮 北京北汽—浙江方兴渡</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231103000 +0800" stop="20251231113000 +0800">
-		<title lang="zh">实况录像-2025年WTT总决赛 1</title>
+	<programme channel="CCTV5" start="20260101093500 +0800" stop="20260101095500 +0800">
+		<title lang="zh">实况录像-精彩一刻-2025/2026赛季高山滑雪世界杯美国比弗克里克站 男子滑降</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231113000 +0800" stop="20251231123000 +0800">
-		<title lang="zh">2025/2026赛季美国职业篮球联赛-常规赛（活塞-湖人）</title>
+	<programme channel="CCTV5" start="20260101095500 +0800" stop="20260101110000 +0800">
+		<title lang="zh">现场直播-2026年全国新年登高健身大会</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231123000 +0800" stop="20251231124500 +0800">
+	<programme channel="CCTV5" start="20260101110000 +0800" stop="20260101120000 +0800">
+		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 5</title>
+	</programme>
+	<programme channel="CCTV5" start="20260101120000 +0800" stop="20260101123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231124500 +0800" stop="20251231140500 +0800">
-		<title lang="zh">2025/2026赛季美国职业篮球联赛-常规赛（活塞-湖人）</title>
-	</programme>
-	<programme channel="CCTV5" start="20251231140500 +0800" stop="20251231142700 +0800">
+	<programme channel="CCTV5" start="20260101123500 +0800" stop="20260101125700 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231142700 +0800" stop="20251231160000 +0800">
-		<title lang="zh">实况录像-聚力2025-CMG体育记忆 4</title>
+	<programme channel="CCTV5" start="20260101125700 +0800" stop="20260101143000 +0800">
+		<title lang="zh">实况录像-聚力2025-CMG体育记忆 3</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231160000 +0800" stop="20251231180000 +0800">
+	<programme channel="CCTV5" start="20260101143000 +0800" stop="20260101160000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第19轮 阿森纳—阿斯顿维拉</title>
+	</programme>
+	<programme channel="CCTV5" start="20260101160000 +0800" stop="20260101170000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季国际雪联大跳台世界杯 北京站 自由式滑雪女子、男子决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20260101170000 +0800" stop="20260101180000 +0800">
 		<title lang="zh">运动一起赢</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231180000 +0800" stop="20251231190000 +0800">
+	<programme channel="CCTV5" start="20260101180000 +0800" stop="20260101183000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231190000 +0800" stop="20251231193000 +0800">
-		<title lang="zh">实况录像-精品赛事记录-苏翊鸣获男子单板滑雪大跳台世界杯赛季总冠军</title>
+	<programme channel="CCTV5" start="20260101183000 +0800" stop="20260101190000 +0800">
+		<title lang="zh">体坛零距离(4K)</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231193000 +0800" stop="20251231214500 +0800">
-		<title lang="zh">2025/2026赛季中国男子篮球职业联赛-常规赛第9轮(辽宁本钢-上海久事)</title>
+	<programme channel="CCTV5" start="20260101190000 +0800" stop="20260101210000 +0800">
+		<title lang="zh">2025/2026赛季中国排球超级联赛- 女子第6轮（上海光明优倍-北京北冰洋）</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231214500 +0800" stop="20251231232000 +0800">
+	<programme channel="CCTV5" start="20260101210000 +0800" stop="20260101210500 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛-第18轮集锦</title>
+	</programme>
+	<programme channel="CCTV5" start="20260101210500 +0800" stop="20260101211500 +0800">
+		<title lang="zh">实况录像-荣耀十分 苏翊鸣获大跳台世界杯云顶站冠军</title>
+	</programme>
+	<programme channel="CCTV5" start="20260101211500 +0800" stop="20260101213000 +0800">
+		<title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
+	</programme>
+	<programme channel="CCTV5" start="20260101213000 +0800" stop="20260101223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231232000 +0800" stop="20251231234500 +0800">
-		<title lang="zh">2025年第十五届全运会转播报道-荣耀回响与光同行</title>
+	<programme channel="CCTV5" start="20260101223500 +0800" stop="20260101233500 +0800">
+		<title lang="zh">足球之夜</title>
 	</programme>
-	<programme channel="CCTV5" start="20251231234500 +0800" stop="20251231235900 +0800">
-		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 4</title>
+	<programme channel="CCTV5" start="20260101233500 +0800" stop="20260101235900 +0800">
+		<title lang="zh">实况录像-聚力2025-CMG体育记忆 7</title>
 	</programme>
 	<channel id="CCTV5+">
 		<display-name lang="zh">CCTV5+</display-name>
 	</channel>
-	<programme channel="CCTV5+" start="20251231003000 +0800" stop="20251231010000 +0800">
-		<title lang="zh">实况录像-2025年亚洲射箭锦标赛 2</title>
+	<programme channel="CCTV5+" start="20260101003000 +0800" stop="20260101010000 +0800">
+		<title lang="zh">实况录像-残特奥会 比赛 1</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231010000 +0800" stop="20251231023000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第3轮 北京北汽—辽宁本钢</title>
+	<programme channel="CCTV5+" start="20260101010000 +0800" stop="20260101023000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第4轮 北京北汽—深圳马可波罗</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231023000 +0800" stop="20251231040000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第8轮 马赛—勒阿弗尔（4K）</title>
+	<programme channel="CCTV5+" start="20260101023000 +0800" stop="20260101040000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第8轮 托特纳姆—阿斯顿维拉（4K）</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231040000 +0800" stop="20251231060000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
+	<programme channel="CCTV5+" start="20260101040000 +0800" stop="20260101060000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 决赛</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231060000 +0800" stop="20251231073000 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  奥斯陆站</title>
+	<programme channel="CCTV5+" start="20260101060000 +0800" stop="20260101073000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231073000 +0800" stop="20251231090000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 足球女子决赛（4K）</title>
+	<programme channel="CCTV5+" start="20260101073000 +0800" stop="20260101090000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 乒乓球男子团体决赛（4K）</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231090000 +0800" stop="20251231103000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第8轮 北京控股—上海久事</title>
+	<programme channel="CCTV5+" start="20260101090000 +0800" stop="20260101103000 +0800">
+		<title lang="zh">实况录像-2025年国际滑联花样滑冰奥运资格赛 男单自由滑</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231103000 +0800" stop="20251231120000 +0800">
-		<title lang="zh">实况录像-2025年国际滑联花样滑冰奥运资格赛 冰舞自由舞</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251231120000 +0800" stop="20251231123000 +0800">
-		<title lang="zh">2025/2026赛季雪车世界杯 意大利科尔蒂纳站-男子钢架雪车</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251231123000 +0800" stop="20251231133000 +0800">
-		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 5</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251231133000 +0800" stop="20251231143000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子10米台决赛（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251231143000 +0800" stop="20251231153000 +0800">
-		<title lang="zh">实况录像-2025年WTT总决赛 4</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251231153000 +0800" stop="20251231170000 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛-第17轮（比利亚雷亚尔—巴塞罗那）（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251231170000 +0800" stop="20251231180000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 波兰站 2</title>
-	</programme>
-	<programme channel="CCTV5+" start="20251231180000 +0800" stop="20251231193000 +0800">
+	<programme channel="CCTV5+" start="20260101103000 +0800" stop="20260101120000 +0800">
 		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第8轮 北京北汽—浙江方兴渡</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231193000 +0800" stop="20251231210000 +0800">
-		<title lang="zh">实况录像-聚力2025-CMG体育记忆 3</title>
+	<programme channel="CCTV5+" start="20260101120000 +0800" stop="20260101123000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 中国队比赛</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231210000 +0800" stop="20251231220000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季单板滑雪世界杯 美国铜山站 U型场地</title>
+	<programme channel="CCTV5+" start="20260101123000 +0800" stop="20260101140000 +0800">
+		<title lang="zh">实况录像-2025年国际乒联混合团体世界杯 1</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231220000 +0800" stop="20251231233000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）</title>
+	<programme channel="CCTV5+" start="20260101140000 +0800" stop="20260101143000 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-男子钢架雪车决赛1</title>
 	</programme>
-	<programme channel="CCTV5+" start="20251231233000 +0800" stop="20251231235900 +0800">
-		<title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 荷兰站 1</title>
+	<programme channel="CCTV5+" start="20260101143000 +0800" stop="20260101150000 +0800">
+		<title lang="zh">实况录像-2025年世界跆拳道锦标赛 1</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101150000 +0800" stop="20260101163000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第19轮 阿森纳—阿斯顿维拉</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101163000 +0800" stop="20260101164000 +0800">
+		<title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101164000 +0800" stop="20260101184500 +0800">
+		<title lang="zh">2025/2026赛季全国短道速滑锦标赛-1</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101184500 +0800" stop="20260101201500 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第9轮 辽宁本钢—上海久事</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101201500 +0800" stop="20260101214500 +0800">
+		<title lang="zh">实况录像-聚力2025-CMG体育记忆 4</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101214500 +0800" stop="20260101221500 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛-第18轮集锦</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101221500 +0800" stop="20260101231500 +0800">
+		<title lang="zh">2025/2026赛季自由式滑雪世界杯 芬兰卢卡站-空中技巧决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260101231500 +0800" stop="20260101235900 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操女子团体决赛（4K）</title>
 	</programme>
 	<channel id="410355">
     <display-name lang="HK">鳳凰衛視資訊台</display-name>
