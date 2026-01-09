@@ -2,227 +2,227 @@
 <tv generator-info-name="EPG-Merger-Bot" generator-info-url="https://github.com/"><channel id="CCTV5">
 		<display-name lang="zh">CCTV5</display-name>
 	</channel>
-	<programme channel="CCTV5" start="20260109000500 +0800" stop="20260109010500 +0800">
-		<title lang="zh">实况录像-2025年世界举重锦标赛 女子53公斤级决赛</title>
+	<programme channel="CCTV5" start="20260110000500 +0800" stop="20260110010500 +0800">
+		<title lang="zh">实况录像-2025年世界举重锦标赛 女子58公斤级决赛</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109010500 +0800" stop="20260109023600 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  罗马站</title>
+	<programme channel="CCTV5" start="20260110010500 +0800" stop="20260110023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛  奥斯陆站</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109023600 +0800" stop="20260109040000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮 新疆伊力特—青岛崂山啤酒</title>
+	<programme channel="CCTV5" start="20260110023600 +0800" stop="20260110040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮 辽宁本钢—北京控股</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109040000 +0800" stop="20260109053000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第15轮 巴黎圣日耳曼—雷恩</title>
+	<programme channel="CCTV5" start="20260110040000 +0800" stop="20260110053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第15轮 曼城—桑德兰</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109053000 +0800" stop="20260109060000 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯总决赛 2</title>
+	<programme channel="CCTV5" start="20260110053000 +0800" stop="20260110060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109060000 +0800" stop="20260109063000 +0800">
-		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-男子钢架雪车决赛2</title>
+	<programme channel="CCTV5" start="20260110060000 +0800" stop="20260110063000 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-女子钢架雪车决赛2</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109063000 +0800" stop="20260109070000 +0800">
+	<programme channel="CCTV5" start="20260110063000 +0800" stop="20260110070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109070000 +0800" stop="20260109080300 +0800">
+	<programme channel="CCTV5" start="20260110070000 +0800" stop="20260110080500 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109080300 +0800" stop="20260109090000 +0800">
-		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 5</title>
+	<programme channel="CCTV5" start="20260110080500 +0800" stop="20260110090000 +0800">
+		<title lang="zh">实况录像-2026年世界职业拳王争霸赛 2</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109090000 +0800" stop="20260109103000 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛- 第18轮（皇家马德里—皇家贝蒂斯）（4K）</title>
+	<programme channel="CCTV5" start="20260110090000 +0800" stop="20260110103000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第20轮 富勒姆—利物浦</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109103000 +0800" stop="20260109120000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛  第12轮 广东东阳光—深圳马可波罗</title>
+	<programme channel="CCTV5" start="20260110103000 +0800" stop="20260110113000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 美国阿斯彭站 坡面障碍技巧（录播）</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109120000 +0800" stop="20260109123500 +0800">
+	<programme channel="CCTV5" start="20260110113000 +0800" stop="20260110123000 +0800">
+		<title lang="zh">2025/2026赛季美国职业篮球联赛- 常规赛（雄鹿-湖人）</title>
+	</programme>
+	<programme channel="CCTV5" start="20260110123000 +0800" stop="20260110124500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109123500 +0800" stop="20260109125700 +0800">
+	<programme channel="CCTV5" start="20260110124500 +0800" stop="20260110140500 +0800">
+		<title lang="zh">2025/2026赛季美国职业篮球联赛- 常规赛（雄鹿-湖人）</title>
+	</programme>
+	<programme channel="CCTV5" start="20260110140500 +0800" stop="20260110142700 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109125700 +0800" stop="20260109143000 +0800">
-		<title lang="zh">实况录像-2026冬奥会冰壶资格赛 男子比赛 2</title>
+	<programme channel="CCTV5" start="20260110142700 +0800" stop="20260110153000 +0800">
+		<title lang="zh">2025/2026赛季全国短道速滑锦标赛-  1</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109143000 +0800" stop="20260109160000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第20轮 伍尔夫汉普顿—西汉姆联</title>
+	<programme channel="CCTV5" start="20260110153000 +0800" stop="20260110163100 +0800">
+		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 加拿大玻波特湖站 空中技巧第二场</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109160000 +0800" stop="20260109170000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 加拿大玻波特湖站 空中技巧第一场</title>
+	<programme channel="CCTV5" start="20260110163100 +0800" stop="20260110180000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第21轮 巴伦西亚—摩纳哥</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109170000 +0800" stop="20260109180000 +0800">
-		<title lang="zh">运动一起赢</title>
-	</programme>
-	<programme channel="CCTV5" start="20260109180000 +0800" stop="20260109183500 +0800">
+	<programme channel="CCTV5" start="20260110180000 +0800" stop="20260110183000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109183500 +0800" stop="20260109193000 +0800">
-		<title lang="zh">篮球公园</title>
+	<programme channel="CCTV5" start="20260110183000 +0800" stop="20260110190000 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 瑞士圣莫里茨站-女子钢架雪车决赛</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109193000 +0800" stop="20260109214500 +0800">
-		<title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛- 第12轮（北京北汽 - 山东高速）</title>
+	<programme channel="CCTV5" start="20260110190000 +0800" stop="20260110193000 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛- 第20轮集锦</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109214500 +0800" stop="20260109225000 +0800">
-		<title lang="zh">体育世界</title>
+	<programme channel="CCTV5" start="20260110193000 +0800" stop="20260110215000 +0800">
+		<title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛- 第13轮（浙江稠州金租 - 北京控股）</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109225000 +0800" stop="20260109235000 +0800">
-		<title lang="zh">实况录像-2025年WTT总决赛 5</title>
+	<programme channel="CCTV5" start="20260110215000 +0800" stop="20260110225000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季单板滑雪世界杯 美国阿斯彭站 U型场地（录播）</title>
 	</programme>
-	<programme channel="CCTV5" start="20260109235000 +0800" stop="20260109235900 +0800">
-		<title lang="zh">实况录像-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
+	<programme channel="CCTV5" start="20260110225000 +0800" stop="20260110235900 +0800">
+		<title lang="zh">实况录像-2025年国际乒联混合团体世界杯 1</title>
 	</programme>
 	<channel id="CCTV5+">
 		<display-name lang="zh">CCTV5+</display-name>
 	</channel>
-	<programme channel="CCTV5+" start="20260109010100 +0800" stop="20260109023100 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第8轮 北京北汽—浙江方兴渡</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109023100 +0800" stop="20260109040000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第12轮 利物浦—诺丁汉森林</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109040000 +0800" stop="20260109060000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109060000 +0800" stop="20260109073000 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛 苏黎世站 1</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109073000 +0800" stop="20260109090000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 排球男子决赛（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109090000 +0800" stop="20260109103000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛  第12轮 广东东阳光—深圳马可波罗</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109103000 +0800" stop="20260109120000 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛- 第18轮（埃尔切—比利亚雷亚尔）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109120000 +0800" stop="20260109130000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子3米板决赛（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109130000 +0800" stop="20260109140000 +0800">
-		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 5</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109140000 +0800" stop="20260109150000 +0800">
-		<title lang="zh">2025/2026赛季自由式滑雪世界杯 意大利因尼辰站-障碍追逐决赛</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109150000 +0800" stop="20260109160000 +0800">
-		<title lang="zh">2025/2026赛季全国短道速滑锦标赛-  1</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109160000 +0800" stop="20260109163000 +0800">
-		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站-男子钢架雪车决赛2</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109163000 +0800" stop="20260109180000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第17轮 马赛—南特</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109180000 +0800" stop="20260109193000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第20轮 费内巴切—奥林匹亚科斯</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109193000 +0800" stop="20260109210000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国排球超级联赛 女子第7轮 北京北冰洋—辽宁东港草莓</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260109210000 +0800" stop="20260109220000 +0800">
+	<programme channel="CCTV5+" start="20260110000000 +0800" stop="20260110010100 +0800">
 		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 加拿大玻波特湖站 空中技巧第二场</title>
 	</programme>
-	<programme channel="CCTV5+" start="20260109220000 +0800" stop="20260109233000 +0800">
-		<title lang="zh">实况录像-2026冬奥会冰壶资格赛 男子比赛 1</title>
+	<programme channel="CCTV5+" start="20260110010100 +0800" stop="20260110023100 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第9轮 山东高速—新疆伊力特</title>
 	</programme>
-	<programme channel="CCTV5+" start="20260109233000 +0800" stop="20260109235900 +0800">
-		<title lang="zh">实况录像-2025年国际滑联花样滑冰奥运资格赛 双人自由滑</title>
+	<programme channel="CCTV5+" start="20260110023100 +0800" stop="20260110040000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第12轮 利兹联—阿斯顿维拉</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110040000 +0800" stop="20260110060000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110060000 +0800" stop="20260110073000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 苏黎世站 2</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110073000 +0800" stop="20260110090000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110090000 +0800" stop="20260110120500 +0800">
+		<title lang="zh">2025/2026赛季北美冰球职业联赛- 常规赛24（华盛顿首都人—芝加哥黑鹰）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110120500 +0800" stop="20260110130000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水女子3米板决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110130000 +0800" stop="20260110140000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 羽毛球男单决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110140000 +0800" stop="20260110150000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 加拿大玻波特湖站 空中技巧第一场</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110150000 +0800" stop="20260110163000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛  第12轮 北京北汽—山东高速</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110163000 +0800" stop="20260110170000 +0800">
+		<title lang="zh">实况录像-精品赛事记录-苏翊鸣获男子单板滑雪大跳台世界杯赛季总冠军</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110170000 +0800" stop="20260110190000 +0800">
+		<title lang="zh">2026年WTT冠军赛（多哈站）-1/4决赛1</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110190000 +0800" stop="20260110210000 +0800">
+		<title lang="zh">2025/2026赛季中国排球超级联赛- 女子第8轮（天津渤海银行—北京北冰洋）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110210000 +0800" stop="20260110212500 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 瑞士圣莫里茨站-女子钢架雪车决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110212500 +0800" stop="20260110222500 +0800">
+		<title lang="zh">逐冰追雪（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260110222500 +0800" stop="20260110235900 +0800">
+		<title lang="zh">2025/2026德国足球甲级联赛-第16轮（弗赖堡—汉堡）</title>
 	</programme>
 	<channel id="湖南卫视">
 		<display-name lang="zh">湖南卫视</display-name>
 	</channel>
-	<programme channel="湖南卫视" start="20260109000000 +0800" stop="20260109013000 +0800">
+	<programme channel="湖南卫视" start="20260110000000 +0800" stop="20260110013000 +0800">
 		<title lang="zh">声生不息·华流季</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109013000 +0800" stop="20260109040000 +0800">
+	<programme channel="湖南卫视" start="20260110013000 +0800" stop="20260110040000 +0800">
 		<title lang="zh">新闻大求真</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109040000 +0800" stop="20260109060000 +0800">
+	<programme channel="湖南卫视" start="20260110040000 +0800" stop="20260110060000 +0800">
 		<title lang="zh">纪录片</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109060000 +0800" stop="20260109063000 +0800">
+	<programme channel="湖南卫视" start="20260110060000 +0800" stop="20260110063000 +0800">
 		<title lang="zh">新闻大求真</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109063000 +0800" stop="20260109070000 +0800">
+	<programme channel="湖南卫视" start="20260110063000 +0800" stop="20260110070000 +0800">
 		<title lang="zh">纪录片</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109070000 +0800" stop="20260109070100 +0800">
+	<programme channel="湖南卫视" start="20260110070000 +0800" stop="20260110070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109070100 +0800" stop="20260109073000 +0800">
+	<programme channel="湖南卫视" start="20260110070100 +0800" stop="20260110073000 +0800">
 		<title lang="zh">湖南新闻联播</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109073000 +0800" stop="20260109080000 +0800">
-		<title lang="zh">菩提树下(26)</title>
+	<programme channel="湖南卫视" start="20260110073000 +0800" stop="20260110080000 +0800">
+		<title lang="zh">菩提树下(32)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109080000 +0800" stop="20260109081300 +0800">
-		<title lang="zh">敦煌的故事(7)</title>
-	</programme>
-	<programme channel="湖南卫视" start="20260109081300 +0800" stop="20260109082600 +0800">
-		<title lang="zh">敦煌的故事(8)</title>
-	</programme>
-	<programme channel="湖南卫视" start="20260109082600 +0800" stop="20260109084300 +0800">
+	<programme channel="湖南卫视" start="20260110080000 +0800" stop="20260110081300 +0800">
 		<title lang="zh">敦煌的故事(9)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109084300 +0800" stop="20260109093400 +0800">
+	<programme channel="湖南卫视" start="20260110081300 +0800" stop="20260110082600 +0800">
+		<title lang="zh">敦煌的故事(10)</title>
+	</programme>
+	<programme channel="湖南卫视" start="20260110082600 +0800" stop="20260110084500 +0800">
+		<title lang="zh">敦煌的故事(11)</title>
+	</programme>
+	<programme channel="湖南卫视" start="20260110084500 +0800" stop="20260110093300 +0800">
 		<title lang="zh">偶像独播剧场:菩提树下</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109093400 +0800" stop="20260109103000 +0800">
+	<programme channel="湖南卫视" start="20260110093300 +0800" stop="20260110103000 +0800">
 		<title lang="zh">偶像独播剧场:菩提树下</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109103000 +0800" stop="20260109111400 +0800">
+	<programme channel="湖南卫视" start="20260110103000 +0800" stop="20260110111500 +0800">
 		<title lang="zh">偶像独播剧场:菩提树下</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109111400 +0800" stop="20260109121000 +0800">
+	<programme channel="湖南卫视" start="20260110111500 +0800" stop="20260110121000 +0800">
 		<title lang="zh">偶像独播剧场:菩提树下</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109121000 +0800" stop="20260109123100 +0800">
+	<programme channel="湖南卫视" start="20260110121000 +0800" stop="20260110123100 +0800">
 		<title lang="zh">午间新闻</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109123100 +0800" stop="20260109123900 +0800">
+	<programme channel="湖南卫视" start="20260110123100 +0800" stop="20260110123600 +0800">
 		<title lang="zh">卫视气象站</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109123900 +0800" stop="20260109135400 +0800">
+	<programme channel="湖南卫视" start="20260110123600 +0800" stop="20260110135400 +0800">
 		<title lang="zh">偶像独播剧场:菩提树下</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109135400 +0800" stop="20260109144700 +0800">
+	<programme channel="湖南卫视" start="20260110135400 +0800" stop="20260110150000 +0800">
 		<title lang="zh">偶像独播剧场:菩提树下</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109144700 +0800" stop="20260109153700 +0800">
+	<programme channel="湖南卫视" start="20260110150000 +0800" stop="20260110154100 +0800">
 		<title lang="zh">偶像独播剧场:菩提树下</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109153700 +0800" stop="20260109162200 +0800">
+	<programme channel="湖南卫视" start="20260110154100 +0800" stop="20260110162800 +0800">
 		<title lang="zh">青春独播剧场:玉茗茶骨(重播)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109162200 +0800" stop="20260109171000 +0800">
+	<programme channel="湖南卫视" start="20260110162800 +0800" stop="20260110171300 +0800">
 		<title lang="zh">青春独播剧场:玉茗茶骨(重播)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109171000 +0800" stop="20260109175400 +0800">
+	<programme channel="湖南卫视" start="20260110171300 +0800" stop="20260110175800 +0800">
 		<title lang="zh">青春独播剧场:玉茗茶骨(重播)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109175400 +0800" stop="20260109183000 +0800">
-		<title lang="zh">新闻大求真</title>
+	<programme channel="湖南卫视" start="20260110175800 +0800" stop="20260110183000 +0800">
+		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109183000 +0800" stop="20260109185600 +0800">
+	<programme channel="湖南卫视" start="20260110183000 +0800" stop="20260110185600 +0800">
 		<title lang="zh">湖南新闻联播</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109185600 +0800" stop="20260109190000 +0800">
+	<programme channel="湖南卫视" start="20260110185600 +0800" stop="20260110190000 +0800">
 		<title lang="zh">卫视气象站</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109190000 +0800" stop="20260109193000 +0800">
+	<programme channel="湖南卫视" start="20260110190000 +0800" stop="20260110193200 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109193000 +0800" stop="20260109201000 +0800">
-		<title lang="zh">玉茗茶骨(17)</title>
+	<programme channel="湖南卫视" start="20260110193200 +0800" stop="20260110202000 +0800">
+		<title lang="zh">金鹰独播剧场:玉茗茶骨(18)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109201000 +0800" stop="20260109220000 +0800">
-		<title lang="zh">声生不息·华流季(8)</title>
+	<programme channel="湖南卫视" start="20260110202000 +0800" stop="20260110220000 +0800">
+		<title lang="zh">你好，星期六:“剧本杀好戏开演” 陈星旭公主抱卢昱晓男友力满满</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109220000 +0800" stop="20260109230000 +0800">
-		<title lang="zh">我们的宿舍(5)</title>
+	<programme channel="湖南卫视" start="20260110220000 +0800" stop="20260110230000 +0800">
+		<title lang="zh">老板是新人(7)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260109230000 +0800" stop="20260109235900 +0800">
-		<title lang="zh">我们的宿舍(5)</title>
+	<programme channel="湖南卫视" start="20260110230000 +0800" stop="20260110235900 +0800">
+		<title lang="zh">老板是新人(7)</title>
 	</programme>
 	<channel id="410355">
     <display-name lang="HK">鳳凰衛視資訊台</display-name>
@@ -232,510 +232,6 @@
     <display-name lang="HK">鳳凰衛視中文台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129153829170771_55" />
   </channel>
-  <programme channel="410355" start="20260107160000 +0000" stop="20260107165700 +0000">
-    <title lang="zh">鳳凰洲際快車</title>
-    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107165700 +0000" stop="20260107170000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107170000 +0000" stop="20260107172700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107172700 +0000" stop="20260107173000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107173000 +0000" stop="20260107180000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107180000 +0000" stop="20260107182700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107182700 +0000" stop="20260107183000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107183000 +0000" stop="20260107190000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107190000 +0000" stop="20260107192700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107192700 +0000" stop="20260107193000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107193000 +0000" stop="20260107200000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107200000 +0000" stop="20260107202700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107202700 +0000" stop="20260107203000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107203000 +0000" stop="20260107205700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107205700 +0000" stop="20260107210000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107210000 +0000" stop="20260107212700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107212700 +0000" stop="20260107213000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107213000 +0000" stop="20260107220000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107220000 +0000" stop="20260107222700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107222700 +0000" stop="20260107223000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107223000 +0000" stop="20260107230000 +0000">
-    <title lang="zh">鳳凰聚焦</title>
-    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107230000 +0000" stop="20260107235700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260107235700 +0000" stop="20260108000000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108000000 +0000" stop="20260108005700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108005700 +0000" stop="20260108010000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108010000 +0000" stop="20260108012700 +0000">
-    <title lang="zh">鳳凰正點播報 0900</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108012700 +0000" stop="20260108013000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108013000 +0000" stop="20260108020000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108020000 +0000" stop="20260108025700 +0000">
-    <title lang="zh">鳳凰正點播報 1000</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108025700 +0000" stop="20260108030000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108030000 +0000" stop="20260108032700 +0000">
-    <title lang="zh">鳳凰正點播報 1100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108032700 +0000" stop="20260108033000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108033000 +0000" stop="20260108040000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108040000 +0000" stop="20260108045500 +0000">
-    <title lang="zh">鳳凰午間專列</title>
-    <desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108045500 +0000" stop="20260108050000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108050000 +0000" stop="20260108052700 +0000">
-    <title lang="zh">鳳凰正點播報 1300</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108052700 +0000" stop="20260108053000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108053000 +0000" stop="20260108060000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108060000 +0000" stop="20260108062700 +0000">
-    <title lang="zh">鳳凰正點播報 1400</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108062700 +0000" stop="20260108063000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108063000 +0000" stop="20260108070000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108070000 +0000" stop="20260108075700 +0000">
-    <title lang="zh">鳳凰正點播報 1500</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108075700 +0000" stop="20260108080000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108080000 +0000" stop="20260108085700 +0000">
-    <title lang="zh">鳳凰正點播報 1600</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108085700 +0000" stop="20260108090000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108090000 +0000" stop="20260108092700 +0000">
-    <title lang="zh">鳳凰正點播報 1700</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108092700 +0000" stop="20260108093000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108093000 +0000" stop="20260108100000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108100000 +0000" stop="20260108102700 +0000">
-    <title lang="zh">鳳凰焦點新聞 1800</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108102700 +0000" stop="20260108103000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108103000 +0000" stop="20260108110000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108110000 +0000" stop="20260108115700 +0000">
-    <title lang="zh">華聞大直播</title>
-    <desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108115700 +0000" stop="20260108120000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108120000 +0000" stop="20260108122700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2000</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108122700 +0000" stop="20260108123000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108123000 +0000" stop="20260108130000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108130000 +0000" stop="20260108135500 +0000">
-    <title lang="zh">時事直通車</title>
-    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108135500 +0000" stop="20260108140000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108140000 +0000" stop="20260108143000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108143000 +0000" stop="20260108150000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108150000 +0000" stop="20260108152700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2300</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108152700 +0000" stop="20260108153000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410355" start="20260108153000 +0000" stop="20260108160000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme channel="410355" start="20260108160000 +0000" stop="20260108165700 +0000">
     <title lang="zh">鳳凰洲際快車</title>
     <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
@@ -3792,402 +3288,506 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260107160000 +0000" stop="20260107165700 +0000">
-    <title lang="zh">鳳凰洲際快車 </title>
+  <programme channel="410355" start="20260114160000 +0000" stop="20260114165700 +0000">
+    <title lang="zh">鳳凰洲際快車</title>
     <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260107165700 +0000" stop="20260107170000 +0000">
+  <programme channel="410355" start="20260114165700 +0000" stop="20260114170000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260107170000 +0000" stop="20260107173000 +0000">
-    <title lang="zh">有報天天讀 </title>
-    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107173000 +0000" stop="20260107180000 +0000">
-    <title lang="zh">鳳凰大視野</title>
-    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107180000 +0000" stop="20260107183000 +0000">
-    <title lang="zh">紀錄大時代 第1376集</title>
-    <desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107183000 +0000" stop="20260107190000 +0000">
-    <title lang="zh">亞洲財經透視 第1046集</title>
-    <desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107190000 +0000" stop="20260107193000 +0000">
-    <title lang="zh">新聞今日談 </title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107193000 +0000" stop="20260107200000 +0000">
-    <title lang="zh">鳳凰聚焦 第1048集</title>
-    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107200000 +0000" stop="20260107203000 +0000">
-    <title lang="zh">石評天下 第138集</title>
-    <desc>《石評天下》是一檔深度政經評論性的週播專題節目。節目透過三個環節: 「石觀世界」、「齊論古今」及「平說新語」, 由資深評論員石齊平以獨特的觀點, 剖析天下政經話題, 縱橫萬里, 借古喻今, 為觀眾深入分析全球大趨勢。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107203000 +0000" stop="20260107210000 +0000">
-    <title lang="zh">鳳凰全球連線 </title>
-    <desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107210000 +0000" stop="20260107213000 +0000">
-    <title lang="zh">有報天天讀 </title>
-    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107213000 +0000" stop="20260107220000 +0000">
-    <title lang="zh">鳳凰衝擊播 第370集 </title>
-    <desc>《軍情觀察室》: 本節目分析當今世界的最新軍情動態, 經典戰例、新銳兵器知識, 又會走進野戰實地、電玩戰爭、用軍事發燒友的目光看海陸空世界。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107220000 +0000" stop="20260107223000 +0000">
-    <title lang="zh">紀錄大時代 第1376集</title>
-    <desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107223000 +0000" stop="20260107230000 +0000">
-    <title lang="zh">總編輯時間 </title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107230000 +0000" stop="20260107235700 +0000">
-    <title lang="zh">鳳凰早班車 </title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260107235700 +0000" stop="20260108000000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108000000 +0000" stop="20260108005700 +0000">
-    <title lang="zh">鳳凰早班車 </title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108005700 +0000" stop="20260108010000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108010000 +0000" stop="20260108013000 +0000">
-    <title lang="zh">鳳凰全球連線 </title>
-    <desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108013000 +0000" stop="20260108020000 +0000">
-    <title lang="zh">鳳凰大視野</title>
-    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108020000 +0000" stop="20260108025700 +0000">
-    <title lang="zh">鳳凰正點播報 1000 </title>
+  <programme channel="410355" start="20260114170000 +0000" stop="20260114172700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
     <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108025700 +0000" stop="20260108030000 +0000">
+  <programme channel="410355" start="20260114172700 +0000" stop="20260114173000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108030000 +0000" stop="20260108033000 +0000">
-    <title lang="zh">鳳凰聚焦 第1048集</title>
+  <programme channel="410355" start="20260114173000 +0000" stop="20260114180000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114180000 +0000" stop="20260114182700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114182700 +0000" stop="20260114183000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114183000 +0000" stop="20260114190000 +0000">
+    <title lang="zh">鳳凰財經日報</title>
+    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114190000 +0000" stop="20260114192700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114192700 +0000" stop="20260114193000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114193000 +0000" stop="20260114200000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114200000 +0000" stop="20260114202700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114202700 +0000" stop="20260114203000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114203000 +0000" stop="20260114205700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114205700 +0000" stop="20260114210000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114210000 +0000" stop="20260114212700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114212700 +0000" stop="20260114213000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114213000 +0000" stop="20260114220000 +0000">
+    <title lang="zh">新聞今日談</title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114220000 +0000" stop="20260114222700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114222700 +0000" stop="20260114223000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260114223000 +0000" stop="20260114230000 +0000">
+    <title lang="zh">鳳凰聚焦</title>
     <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108033000 +0000" stop="20260108040000 +0000">
-    <title lang="zh">有報天天讀 </title>
-    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
-    <date>20260108</date>
+  <programme channel="410355" start="20260114230000 +0000" stop="20260114235700 +0000">
+    <title lang="zh">鳳凰早班車</title>
+    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108040000 +0000" stop="20260108045500 +0000">
-    <title lang="zh">鳳凰午間專列 </title>
+  <programme channel="410355" start="20260114235700 +0000" stop="20260115000000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115000000 +0000" stop="20260115005700 +0000">
+    <title lang="zh">鳳凰早班車</title>
+    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115005700 +0000" stop="20260115010000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115010000 +0000" stop="20260115012700 +0000">
+    <title lang="zh">鳳凰正點播報 0900</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115012700 +0000" stop="20260115013000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115013000 +0000" stop="20260115020000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115020000 +0000" stop="20260115025700 +0000">
+    <title lang="zh">鳳凰正點播報 1000</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115025700 +0000" stop="20260115030000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115030000 +0000" stop="20260115032700 +0000">
+    <title lang="zh">鳳凰正點播報 1100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115032700 +0000" stop="20260115033000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115033000 +0000" stop="20260115040000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115040000 +0000" stop="20260115045500 +0000">
+    <title lang="zh">鳳凰午間專列</title>
     <desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc>
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108045500 +0000" stop="20260108050000 +0000">
+  <programme channel="410355" start="20260115045500 +0000" stop="20260115050000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108050000 +0000" stop="20260108053000 +0000">
-    <title lang="zh">總編輯時間 </title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108053000 +0000" stop="20260108060000 +0000">
-    <title lang="zh">發現大灣區 第152集</title>
-    <desc>鳳凰衛視傾力打造全新大灣區雜誌式欄目《發現大灣區》, 以鳳凰記者親身走訪大灣區的形式, 發現大灣區最新最熱最有趣的的事件、人物、成就。欄目分為灣區熱點、灣區人物、灣區坐標三大板塊, 總時長26分鐘。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108060000 +0000" stop="20260108063000 +0000">
-    <title lang="zh">文化大觀園 第455集</title>
-    <desc>《文化大觀園》: 節目關注中華文化中的大事件、大歷史、大人物和新發現, 在紛繁的生活中給您清靜、雅致的空間, 並通過我們的鏡頭去探尋中華文明中充滿迷幻、離奇的人物和故事。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108063000 +0000" stop="20260108070000 +0000">
-    <title lang="zh">鳳凰大視野</title>
-    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108070000 +0000" stop="20260108075700 +0000">
-    <title lang="zh">鳳凰正點播報 1500 </title>
+  <programme channel="410355" start="20260115050000 +0000" stop="20260115052700 +0000">
+    <title lang="zh">鳳凰正點播報 1300</title>
     <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108075700 +0000" stop="20260108080000 +0000">
+  <programme channel="410355" start="20260115052700 +0000" stop="20260115053000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108080000 +0000" stop="20260108083000 +0000">
-    <title lang="zh">鳳凰衝擊播 第370集 </title>
-    <desc>《軍情觀察室》: 本節目分析當今世界的最新軍情動態, 經典戰例、新銳兵器知識, 又會走進野戰實地、電玩戰爭、用軍事發燒友的目光看海陸空世界。</desc>
-    <date>20260108</date>
+  <programme channel="410355" start="20260115053000 +0000" stop="20260115060000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108083000 +0000" stop="20260108090000 +0000">
-    <title lang="zh">紀錄大時代 第1377集</title>
-    <desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc>
-    <date>20260108</date>
+  <programme channel="410355" start="20260115060000 +0000" stop="20260115062700 +0000">
+    <title lang="zh">鳳凰正點播報 1400</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108090000 +0000" stop="20260108091500 +0000">
-    <title lang="zh">我的香港故事 第206集</title>
-    <desc>《我的香港故事》: 人物記錄專題欄目。通過每集大約15分鐘的精致篇幅, 講述香港人的故事與發生的事。為全國華人觀眾, 了解香港新的視覺。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108091500 +0000" stop="20260108093000 +0000">
-    <title lang="zh">我的香港故事 第205集</title>
-    <desc>《我的香港故事》: 人物記錄專題欄目。通過每集大約15分鐘的精致篇幅, 講述香港人的故事與發生的事。為全國華人觀眾, 了解香港新的視覺。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108093000 +0000" stop="20260108100000 +0000">
-    <title lang="zh">有報天天讀 </title>
-    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108100000 +0000" stop="20260108102700 +0000">
-    <title lang="zh">鳳凰焦點新聞 1800 </title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108102700 +0000" stop="20260108103000 +0000">
+  <programme channel="410355" start="20260115062700 +0000" stop="20260115063000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108103000 +0000" stop="20260108110000 +0000">
-    <title lang="zh">新聞今日談 </title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108110000 +0000" stop="20260108113000 +0000">
-    <title lang="zh">亞洲財經透視 第1047集</title>
-    <desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108113000 +0000" stop="20260108120000 +0000">
-    <title lang="zh">總編輯時間 </title>
+  <programme channel="410355" start="20260115063000 +0000" stop="20260115070000 +0000">
+    <title lang="zh">總編輯時間</title>
     <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108120000 +0000" stop="20260108123000 +0000">
-    <title lang="zh">鳳凰大視野</title>
-    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
-    <date>20260108</date>
+  <programme channel="410355" start="20260115070000 +0000" stop="20260115075700 +0000">
+    <title lang="zh">鳳凰正點播報 1500</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108123000 +0000" stop="20260108130000 +0000">
-    <title lang="zh">鳳凰衝擊播 第402集 </title>
-    <desc>《風雲對話》是一個高素質的訪談節目, 節目採訪全球“最關鍵、最前線、最敏感”權傾一時的掌權者, 他們影響並決定著整個國際局勢的變化和發展。一個個世界級人物在節目中, 親自向您剖析他們的觀點。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108130000 +0000" stop="20260108135500 +0000">
-    <title lang="zh">時事直通車 </title>
-    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="410378" start="20260108135500 +0000" stop="20260108140000 +0000">
+  <programme channel="410355" start="20260115075700 +0000" stop="20260115080000 +0000">
     <title lang="zh">鳳凰氣象站</title>
     <desc />
-    <date>20260108</date>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108140000 +0000" stop="20260108143000 +0000">
-    <title lang="zh">鳳凰聚焦 第1049集</title>
-    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
-    <date>20260108</date>
+  <programme channel="410355" start="20260115080000 +0000" stop="20260115085700 +0000">
+    <title lang="zh">鳳凰正點播報 1600</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108143000 +0000" stop="20260108150000 +0000">
-    <title lang="zh">鳳凰全球連線 </title>
-    <desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc>
-    <date>20260108</date>
+  <programme channel="410355" start="20260115085700 +0000" stop="20260115090000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108150000 +0000" stop="20260108153000 +0000">
-    <title lang="zh">亞洲財經透視 第1047集</title>
-    <desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc>
-    <date>20260108</date>
+  <programme channel="410355" start="20260115090000 +0000" stop="20260115092700 +0000">
+    <title lang="zh">鳳凰正點播報 1700</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="410378" start="20260108153000 +0000" stop="20260108160000 +0000">
-    <title lang="zh">新聞今日談 </title>
+  <programme channel="410355" start="20260115092700 +0000" stop="20260115093000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115093000 +0000" stop="20260115100000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115100000 +0000" stop="20260115102700 +0000">
+    <title lang="zh">鳳凰焦點新聞 1800</title>
+    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115102700 +0000" stop="20260115103000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115103000 +0000" stop="20260115110000 +0000">
+    <title lang="zh">新聞今日談</title>
     <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>20260108</date>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115110000 +0000" stop="20260115115700 +0000">
+    <title lang="zh">華聞大直播</title>
+    <desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115115700 +0000" stop="20260115120000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115120000 +0000" stop="20260115122700 +0000">
+    <title lang="zh">鳳凰焦點新聞 2000</title>
+    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115122700 +0000" stop="20260115123000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115123000 +0000" stop="20260115130000 +0000">
+    <title lang="zh">鳳凰財經日報</title>
+    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115130000 +0000" stop="20260115135500 +0000">
+    <title lang="zh">時事直通車</title>
+    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115135500 +0000" stop="20260115140000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115140000 +0000" stop="20260115143000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115143000 +0000" stop="20260115150000 +0000">
+    <title lang="zh">新聞今日談</title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115150000 +0000" stop="20260115152700 +0000">
+    <title lang="zh">鳳凰焦點新聞 2300</title>
+    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115152700 +0000" stop="20260115153000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410355" start="20260115153000 +0000" stop="20260115160000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>20260115</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -6480,108 +6080,412 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="410378" start="20260114160000 +0000" stop="20260114165700 +0000">
+    <title lang="zh">鳳凰洲際快車 </title>
+    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114165700 +0000" stop="20260114170000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114170000 +0000" stop="20260114173000 +0000">
+    <title lang="zh">有報天天讀 </title>
+    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114173000 +0000" stop="20260114180000 +0000">
+    <title lang="zh">鳳凰大視野</title>
+    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114180000 +0000" stop="20260114183000 +0000">
+    <title lang="zh">紀錄大時代 第1383集</title>
+    <desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114183000 +0000" stop="20260114190000 +0000">
+    <title lang="zh">亞洲財經透視 第1051集</title>
+    <desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114190000 +0000" stop="20260114193000 +0000">
+    <title lang="zh">新聞今日談 </title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114193000 +0000" stop="20260114200000 +0000">
+    <title lang="zh">鳳凰聚焦 第1053集</title>
+    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114200000 +0000" stop="20260114203000 +0000">
+    <title lang="zh">石評天下 第139集</title>
+    <desc>《石評天下》是一檔深度政經評論性的週播專題節目。節目透過三個環節: 「石觀世界」、「齊論古今」及「平說新語」, 由資深評論員石齊平以獨特的觀點, 剖析天下政經話題, 縱橫萬里, 借古喻今, 為觀眾深入分析全球大趨勢。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114203000 +0000" stop="20260114210000 +0000">
+    <title lang="zh">鳳凰全球連線 </title>
+    <desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114210000 +0000" stop="20260114213000 +0000">
+    <title lang="zh">有報天天讀 </title>
+    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114213000 +0000" stop="20260114220000 +0000">
+    <title lang="zh">鳳凰衝擊播 第371集 </title>
+    <desc>《軍情觀察室》: 本節目分析當今世界的最新軍情動態, 經典戰例、新銳兵器知識, 又會走進野戰實地、電玩戰爭、用軍事發燒友的目光看海陸空世界。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114220000 +0000" stop="20260114223000 +0000">
+    <title lang="zh">紀錄大時代 第1383集</title>
+    <desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114223000 +0000" stop="20260114230000 +0000">
+    <title lang="zh">總編輯時間 </title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114230000 +0000" stop="20260114235700 +0000">
+    <title lang="zh">鳳凰早班車 </title>
+    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260114235700 +0000" stop="20260115000000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115000000 +0000" stop="20260115005700 +0000">
+    <title lang="zh">鳳凰早班車 </title>
+    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115005700 +0000" stop="20260115010000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115010000 +0000" stop="20260115013000 +0000">
+    <title lang="zh">鳳凰全球連線 </title>
+    <desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115013000 +0000" stop="20260115020000 +0000">
+    <title lang="zh">鳳凰大視野</title>
+    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115020000 +0000" stop="20260115025700 +0000">
+    <title lang="zh">鳳凰正點播報 1000 </title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115025700 +0000" stop="20260115030000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115030000 +0000" stop="20260115033000 +0000">
+    <title lang="zh">鳳凰聚焦 第1053集</title>
+    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115033000 +0000" stop="20260115040000 +0000">
+    <title lang="zh">有報天天讀 </title>
+    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115040000 +0000" stop="20260115045500 +0000">
+    <title lang="zh">鳳凰午間專列 </title>
+    <desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115045500 +0000" stop="20260115050000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115050000 +0000" stop="20260115053000 +0000">
+    <title lang="zh">總編輯時間 </title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115053000 +0000" stop="20260115060000 +0000">
+    <title lang="zh">發現大灣區 第153集</title>
+    <desc>鳳凰衛視傾力打造全新大灣區雜誌式欄目《發現大灣區》, 以鳳凰記者親身走訪大灣區的形式, 發現大灣區最新最熱最有趣的的事件、人物、成就。欄目分為灣區熱點、灣區人物、灣區坐標三大板塊, 總時長26分鐘。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115060000 +0000" stop="20260115063000 +0000">
+    <title lang="zh">文化大觀園 第456集</title>
+    <desc>《文化大觀園》: 節目關注中華文化中的大事件、大歷史、大人物和新發現, 在紛繁的生活中給您清靜、雅致的空間, 並通過我們的鏡頭去探尋中華文明中充滿迷幻、離奇的人物和故事。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115063000 +0000" stop="20260115070000 +0000">
+    <title lang="zh">鳳凰大視野</title>
+    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115070000 +0000" stop="20260115075700 +0000">
+    <title lang="zh">鳳凰正點播報 1500 </title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115075700 +0000" stop="20260115080000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115080000 +0000" stop="20260115083000 +0000">
+    <title lang="zh">鳳凰衝擊播 第371集 </title>
+    <desc>《軍情觀察室》: 本節目分析當今世界的最新軍情動態, 經典戰例、新銳兵器知識, 又會走進野戰實地、電玩戰爭、用軍事發燒友的目光看海陸空世界。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115083000 +0000" stop="20260115090000 +0000">
+    <title lang="zh">紀錄大時代 第1384集</title>
+    <desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115090000 +0000" stop="20260115091500 +0000">
+    <title lang="zh">我的香港故事 第207集</title>
+    <desc>《我的香港故事》: 人物記錄專題欄目。通過每集大約15分鐘的精致篇幅, 講述香港人的故事與發生的事。為全國華人觀眾, 了解香港新的視覺。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115091500 +0000" stop="20260115093000 +0000">
+    <title lang="zh">我的香港故事 第206集</title>
+    <desc>《我的香港故事》: 人物記錄專題欄目。通過每集大約15分鐘的精致篇幅, 講述香港人的故事與發生的事。為全國華人觀眾, 了解香港新的視覺。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115093000 +0000" stop="20260115100000 +0000">
+    <title lang="zh">有報天天讀 </title>
+    <desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115100000 +0000" stop="20260115102700 +0000">
+    <title lang="zh">鳳凰焦點新聞 1800 </title>
+    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115102700 +0000" stop="20260115103000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115103000 +0000" stop="20260115110000 +0000">
+    <title lang="zh">新聞今日談 </title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115110000 +0000" stop="20260115113000 +0000">
+    <title lang="zh">亞洲財經透視 第1052集</title>
+    <desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115113000 +0000" stop="20260115120000 +0000">
+    <title lang="zh">總編輯時間 </title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115120000 +0000" stop="20260115123000 +0000">
+    <title lang="zh">鳳凰大視野</title>
+    <desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115123000 +0000" stop="20260115130000 +0000">
+    <title lang="zh">鳳凰衝擊播 第403集 </title>
+    <desc>《風雲對話》是一個高素質的訪談節目, 節目採訪全球“最關鍵、最前線、最敏感”權傾一時的掌權者, 他們影響並決定著整個國際局勢的變化和發展。一個個世界級人物在節目中, 親自向您剖析他們的觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115130000 +0000" stop="20260115135500 +0000">
+    <title lang="zh">時事直通車 </title>
+    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115135500 +0000" stop="20260115140000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115140000 +0000" stop="20260115143000 +0000">
+    <title lang="zh">鳳凰聚焦 第1054集</title>
+    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115143000 +0000" stop="20260115150000 +0000">
+    <title lang="zh">鳳凰全球連線 </title>
+    <desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115150000 +0000" stop="20260115153000 +0000">
+    <title lang="zh">亞洲財經透視 第1052集</title>
+    <desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="410378" start="20260115153000 +0000" stop="20260115160000 +0000">
+    <title lang="zh">新聞今日談 </title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>20260115</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <channel id="460843">
     <display-name lang="TW">博斯無限台HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="460843" start="20260107160000 +0000" stop="20260107173000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第四天 ROB vs GON(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260107173000 +0000" stop="20260107190000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 O'SUL vs LEI(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260107190000 +0000" stop="20260107220000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(2) SEL vs PAG(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260107220000 +0000" stop="20260107233000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260107233000 +0000" stop="20260108010000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 DIN vs VAF(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260108010000 +0000" stop="20260108023000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第四天 ROB vs GON(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260108023000 +0000" stop="20260108040000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 O'SUL vs LEI(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260108040000 +0000" stop="20260108070000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(2) SEL vs PAG(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260108070000 +0000" stop="20260108083000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第四天 ROB vs GON(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260108083000 +0000" stop="20260108100000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 O'SUL vs LEI(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260108100000 +0000" stop="20260108130000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="460843" start="20260108130000 +0000" stop="20260108160000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(3) ALL vs SLE(普)</title>
-    <desc />
-    <date>20260108</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme channel="460843" start="20260108160000 +0000" stop="20260108173000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 TRU vs WU(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第四天 ROB vs GON(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6597,7 +6501,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260108190000 +0000" stop="20260108220000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(3) ALL vs SLE(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(2) SEL vs PAG(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6605,7 +6509,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260108220000 +0000" stop="20260109010000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA(普)</title>
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 第二輪 O'SUL vs PAN(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6613,7 +6517,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109010000 +0000" stop="20260109023000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 TRU vs WU(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第四天 ROB vs GON(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6629,7 +6533,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109040000 +0000" stop="20260109070000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(3) ALL vs SLE(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(2) SEL vs PAG(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6637,7 +6541,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109070000 +0000" stop="20260109083000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 TRU vs WU(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第四天 ROB vs GON(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6653,7 +6557,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109100000 +0000" stop="20260109130000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 TRU vs XU(普)</title>
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6661,7 +6565,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109130000 +0000" stop="20260109160000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(1) SEL vs ZHO(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(3) ALL vs SLE(普)</title>
     <desc />
     <date>20260109</date>
     <audio>
@@ -6669,7 +6573,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109160000 +0000" stop="20260109190000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 O'SUL vs ZHA(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 TRU vs WU(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6677,7 +6581,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109190000 +0000" stop="20260109220000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(1) SEL vs ZHO(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(3) ALL vs SLE(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6685,7 +6589,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260109220000 +0000" stop="20260110010000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 TRU vs XU(普)</title>
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 DIN vs JIA(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6693,7 +6597,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110010000 +0000" stop="20260110040000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 O'SUL vs ZHA(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 TRU vs WU(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6701,7 +6605,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110040000 +0000" stop="20260110070000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(1) SEL vs ZHO(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 8強(3) ALL vs SLE(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6709,7 +6613,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110070000 +0000" stop="20260110100000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 O'SUL vs ZHA(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 第五天 TRU vs WU(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6717,7 +6621,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110100000 +0000" stop="20260110130000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 8強 HIG vs WAK(普)</title>
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 TRU vs XU(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6725,7 +6629,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110130000 +0000" stop="20260110160000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(2) ALL vs JON(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(1) SEL vs ZHO(普)</title>
     <desc />
     <date>20260110</date>
     <audio>
@@ -6733,7 +6637,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110160000 +0000" stop="20260110173000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 TRU vs LIS(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 O'SUL vs ZHA(普)</title>
     <desc />
     <date>20260111</date>
     <audio>
@@ -6749,7 +6653,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110190000 +0000" stop="20260110220000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(2) ALL vs JON(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(1) SEL vs ZHO(普)</title>
     <desc />
     <date>20260111</date>
     <audio>
@@ -6757,7 +6661,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260110220000 +0000" stop="20260111010000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 8強 HIG vs WAK(普)</title>
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 16強 TRU vs XU(普)</title>
     <desc />
     <date>20260111</date>
     <audio>
@@ -6765,7 +6669,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260111010000 +0000" stop="20260111023000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 TRU vs LIS(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 O'SUL vs ZHA(普)</title>
     <desc />
     <date>20260111</date>
     <audio>
@@ -6781,7 +6685,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260111040000 +0000" stop="20260111070000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(2) ALL vs JON(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(1) SEL vs ZHO(普)</title>
     <desc />
     <date>20260111</date>
     <audio>
@@ -6789,7 +6693,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260111070000 +0000" stop="20260111083000 +0000">
-    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 TRU vs LIS(普)</title>
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 O'SUL vs ZHA(普)</title>
     <desc />
     <date>20260111</date>
     <audio>
@@ -6805,7 +6709,7 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260111100000 +0000" stop="20260111130000 +0000">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 4強 DIN vs XU(普)</title>
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 8強 HIG vs WAK(普)</title>
     <desc />
     <date>20260111</date>
     <audio>
@@ -6813,9 +6717,209 @@
     </audio>
   </programme>
   <programme channel="460843" start="20260111130000 +0000" stop="20260111160000 +0000">
-    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 決賽 ALL vs ZHO(普)</title>
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(2) ALL vs JON(普)</title>
     <desc />
     <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260111160000 +0000" stop="20260111173000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 TRU vs LIS(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260111173000 +0000" stop="20260111190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 8強 O'SUL vs SI(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260111190000 +0000" stop="20260111220000 +0000">
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(2) ALL vs JON(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260111220000 +0000" stop="20260112010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 8強 HIG vs WAK(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112010000 +0000" stop="20260112023000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 TRU vs LIS(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112023000 +0000" stop="20260112040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 8強 O'SUL vs SI(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112040000 +0000" stop="20260112070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 4強(2) ALL vs JON(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112070000 +0000" stop="20260112083000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 16強 TRU vs LIS(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112083000 +0000" stop="20260112100000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 8強 O'SUL vs SI(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112100000 +0000" stop="20260112130000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 4強 DIN vs XU(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112130000 +0000" stop="20260112160000 +0000">
+    <title lang="zh">LIVE2025/26司諾克賽季翰斯通油漆大師賽第一天2100-0000(普)</title>
+    <desc />
+    <date>20260112</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112160000 +0000" stop="20260112190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 8強 TRU vs ROB(普)</title>
+    <desc />
+    <date>20260113</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112190000 +0000" stop="20260112220000 +0000">
+    <title lang="zh">LIVE2025/26司諾克賽季翰斯通油漆大師賽第一天0300-0600(普)</title>
+    <desc />
+    <date>20260113</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260112220000 +0000" stop="20260113010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 4強 XIA vs WAK(普)</title>
+    <desc />
+    <date>20260113</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260113010000 +0000" stop="20260113040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 8強 TRU vs ROB(普)</title>
+    <desc />
+    <date>20260113</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260113040000 +0000" stop="20260113070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 英格蘭公開賽 決賽 ALL vs ZHO(普)</title>
+    <desc />
+    <date>20260113</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260113070000 +0000" stop="20260113130000 +0000">
+    <title lang="zh">首播2025/26司諾克賽季翰斯通油漆大師賽第一天(普)</title>
+    <desc />
+    <date>20260113</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260113130000 +0000" stop="20260113160000 +0000">
+    <title lang="zh">LIVE2025/26司諾克賽季翰斯通油漆大師賽第二天2100-0000(普)</title>
+    <desc />
+    <date>20260113</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260113160000 +0000" stop="20260113190000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 4強 TRU vs MUR(普)</title>
+    <desc />
+    <date>20260114</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260113190000 +0000" stop="20260113220000 +0000">
+    <title lang="zh">LIVE2025/26司諾克賽季翰斯通油漆大師賽第二天0300-0600(普)</title>
+    <desc />
+    <date>20260114</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260113220000 +0000" stop="20260114010000 +0000">
+    <title lang="zh">2024-25司諾克賽季 國際錦標賽 決賽 DIN vs WAK(普)</title>
+    <desc />
+    <date>20260114</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260114010000 +0000" stop="20260114040000 +0000">
+    <title lang="zh">2024-25司諾克賽季 沙烏地阿拉伯大師賽 4強 TRU vs MUR(普)</title>
+    <desc />
+    <date>20260114</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260114040000 +0000" stop="20260114070000 +0000">
+    <title lang="zh">2025-26司諾克賽季 英國錦標賽 DAY01 第一輪 主桌(1)TRU vs MAG(普)</title>
+    <desc />
+    <date>20260114</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260114070000 +0000" stop="20260114130000 +0000">
+    <title lang="zh">首播2025/26司諾克賽季翰斯通油漆大師賽第二天(普)</title>
+    <desc />
+    <date>20260114</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460843" start="20260114130000 +0000" stop="20260114160000 +0000">
+    <title lang="zh">LIVE2025/26司諾克賽季翰斯通油漆大師賽第三天2100-0000(普)</title>
+    <desc />
+    <date>20260114</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
