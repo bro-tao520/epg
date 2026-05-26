@@ -31,7 +31,7 @@ SOURCES = [
         "name": "英文频道",
         "m3u": "https://www.dropbox.com/scl/fi/bmi02o7w4k4ss70mykji3/TV-List.m3u?rlkey=17oixu3vi7iyir2jad1eowsne&raw=1",
         "epg": "tvg-id",
-        "offset": +4
+        "offset": 0
     },
 ]
 
