@@ -69,3 +69,7 @@ https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/epg/main/slim_fixed_epg
 ## 🤝 Contributing
 
 Issues and Pull Requests are welcome! If you find this tool helpful in saving your IPTV player's memory, please give it a ⭐ **Star**!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
