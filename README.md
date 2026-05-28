@@ -1,47 +1,71 @@
-# IPTV / XMLTV EPG 自动更新服务
+# 📺 IPTV EPG Slimmer & Auto-Updater
 
 [![EPG Update](https://github.com/bro-tao520/epg/actions/workflows/update_epg.yml/badge.svg)](https://github.com/bro-tao520/epg/actions/workflows/update_epg.yml)
 ![License](https://img.shields.io/github/license/bro-tao520/epg?color=blue&style=flat-square)
 
-本项目是一个基于 GitHub Actions 的自动 EPG（电子节目指南）生成与更新工具。通过 Python 脚本自动获取、调整时区偏移并精简 EPG 数据，为 IPTV 播放器（如 Tivimate、Perfect Player、PotPlayer 等）提供稳定、准确的 XMLTV 格式节目单。
+A lightweight, automated EPG (Electronic Program Guide) generator and timezone fixer powered by Python and GitHub Actions.
 
-## 🚀 项目特点
+## 💡 Why do you need this? (The Pain Point)
 
-- **自动化运行**：利用 GitHub Actions 定时自动更新，无需自备服务器。
-- **时区修正**：内置 `epg_offset.py` 脚本，支持对节目时间进行偏移调整（解决部分源时区不对、节目对不上的问题）。
-- **精简高效**：生成 `slim_fixed_epg.xml` 紧凑版文件，剔除冗余信息，加载速度更快，节省播放器流量。
-- **即拿即用**：直接提供可供 IPTV 客户端订阅的 XML 链接。
+Public EPG XML files are usually massive (often containing thousands of channels and weighing tens of megabytes). Loading them directly into IPTV players like Tivimate, Perfect Player, or PotPlayer can cause:
+- 🐌 Extremely slow loading times
+- 💥 High memory usage and app crashes
+- 🕒 Incorrect program schedules due to wrong timezones
 
-## 📁 文件结构说明
+**This script solves these problems by:**
+1. **M3U-based Filtering**: It reads your personal M3U playlist and extracts **ONLY** the EPG data for the channels you actually have.
+2. **Timezone Correction**: It automatically adjusts the time offset for specific sources to ensure your TV guide is perfectly synced.
+3. **Ultra-Slim Output**: Generates a lightweight `slim_fixed_epg.xml` (usually just a few hundred KBs) for lightning-fast loading.
 
-- **`.github/workflows/update_epg.yml`**：GitHub Actions 工作流配置文件，负责定时唤醒并执行更新任务。
-- **`epg_offset.py`**：核心 Python 脚本，用于下载原始 EPG 数据、计算/修正时间偏差，并过滤精简数据。
-- **`slim_fixed_epg.xml`**：最终生成的 XMLTV 格式电子节目指南文件（订阅源）。
+## 🚀 Features
 
-## 🛠️ 使用方法
+- **Zero Server Cost**: Fully automated using GitHub Actions. No need to rent a VPS.
+- **Tailored for You**: Extracts only what you need, discarding 99% of useless data.
+- **Timezone Fixer**: Easily fix EPGs that are hours ahead or behind.
+- **XMLTV Standard**: Fully compatible with almost all modern IPTV clients.
 
-### 1. 直接订阅（推荐）
-如果你只需要使用现成的 EPG 节目单，可以直接在支持 XMLTV 的 IPTV 播放器中导入以下链接：
+## 🛠️ How to build your own EPG service?
+
+If you have your own M3U list and a public EPG source, you can set up your own auto-updating service in 3 simple steps:
+
+### Step 1: Fork this repository
+Click the `Fork` button at the top right of this page to copy this project to your own GitHub account.
+
+### Step 2: Configure your sources
+Edit the `epg_offset.py` file in your forked repository. Find the `SOURCES` array and replace it with your own M3U and EPG links:
+
+```python
+SOURCES = [
+    {
+        "name": "My Custom Channels",
+        "m3u": "https://your-domain.com/your-playlist.m3u",  # Your M3U playlist link
+        "epg": "https://epg.pw/xmltv/epg_CN.xml",            # The massive public EPG link
+        "offset": -8                                         # Timezone offset (adjust as needed)
+    }
+]
+```
+*(Note: You can add multiple dictionaries to the `SOURCES` array to merge different EPGs.)*
+
+### Step 3: Enable GitHub Actions
+1. Go to the **Actions** tab in your repository.
+2. Click **"I understand my workflows, go ahead and enable them"**.
+3. The system will now automatically run every day (based on the cron schedule in `.github/workflows/update_epg.yml`) and generate your personalized, ultra-slim `slim_fixed_epg.xml`!
+
+## 🔗 How to use the generated EPG?
+
+Once the Action runs successfully, you can use the raw link of the generated XML file in your IPTV player. The link format is:
 
 ```text
-https://raw.githubusercontent.com/bro-tao520/epg/main/slim_fixed_epg.xml
+https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/epg/main/slim_fixed_epg.xml
 ```
-*(注：如果国内网络访问 raw.githubusercontent 困难，可使用 jsDelivr 等 CDN 加速)*
+*(Replace `<YOUR_GITHUB_USERNAME>` with your actual GitHub username)*
 
-### 2. 自行 Fork 部署修改
-如果你想修改数据源或调整时区偏移参数：
-
-1. **Fork 本仓库** 到你自己的 GitHub 账号下。
-2. **修改脚本**：根据需求修改 `epg_offset.py` 中的数据源 URL 或时间偏移量（Offset）。
-3. **启用 Actions**：在你的仓库页面，点击 `Actions` 标签页，手动允许工作流运行。
-4. **定时更新**：工作流将按照 `update_epg.yml` 中配置的 Cron 定时任务自动运行，并将最新的 `slim_fixed_epg.xml` 推送到你的仓库。
-
-## ⚙️ 技术栈
+## ⚙️ Tech Stack
 
 - **Language**: Python 3.x
 - **CI/CD**: GitHub Actions
-- **Format**: XMLTV 标准
+- **Format**: XMLTV Standard
 
-## 🤝 贡献与反馈
+## 🤝 Contributing
 
-欢迎提交 Issue 或 Pull Request 来完善此项目！如果你觉得这个项目对你有帮助，请给它点一个 ⭐ **Star**！
+Issues and Pull Requests are welcome! If you find this tool helpful in saving your IPTV player's memory, please give it a ⭐ **Star**!
